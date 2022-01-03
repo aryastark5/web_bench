@@ -44,17 +44,18 @@ Number of Unique phenotype_v2: 16
 
 Graphs
 
-[Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for each CUI-Drug Record]({% link display_files/benchmark_general_results/graphs/one.html %})
+[Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for each CUI-Drug Record](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/one.html)
 
-[Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for each CUI-Drug Record]({% link display_files/benchmark_general_results/graphs/two.html %})
 
-[-log(Benjamini Hochberg Version 1) vs -log(Benjamini Hochberg Version 2)]({% link display_files/benchmark_general_results/graphs/three.html %})
+[Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for each CUI-Drug Record](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/two.html)
 
-[Distribution of Neighborhood Gene List Size between PathFX Versions]({% link display_files/benchmark_general_results/graphs/four.html %})
+[-log(Benjamini Hochberg Version 1) vs -log(Benjamini Hochberg Version 2)](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/three.html)
 
-[Difference in -log(Benjamini Hochberg) between PathFX Version 2 and Version 1 per CUI]({% link display_files/benchmark_general_results/graphs/five.html %})
+[Distribution of Neighborhood Gene List Size between PathFX Versions](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/four.html)
 
-[Mean Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for each Drug]({% link display_files/benchmark_general_results/graphs/six.html %})
+[Difference in -log(Benjamini Hochberg) between PathFX Version 2 and Version 1 per CUI](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/five.html)
 
-[Mean Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for Phenotype]({% link display_files/benchmark_general_results/graphs/seven.html %})
+[Mean Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for each Drug](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/six.html)
+
+[Mean Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for Phenotype](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/seven.html)
 
