@@ -22,7 +22,7 @@ title: PathFX Benchmark Results
 email: pathfx_support@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   Comparing Results of PathFX Version 1.0 vs. PathFX Version 2.0. All support files are published to the Github Repo.
-baseurl: "pathfx_bench_web" # the subpath of your site, e.g. /blog
+baseurl: "web_bench" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aryamirpour
 github_username:  aryastark5
