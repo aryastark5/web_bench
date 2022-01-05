@@ -1,0 +1,1008 @@
+Gene,Version 1 Adverse Event Count,Version 2 Adverse Event Count,Adverse Event,All Records Version 1 Count,All Records Version 2 Count,Adverse Event Count Difference,All Records Count Difference
+AAK1,6.0,5.0,Sepsis,6.0,5.0,-1.0,-1.0
+ABCB1,0.0,10.0,Thrombocytopenia,30.0,47.0,10.0,17.0
+ABCB1,0.0,7.0,Delirium,30.0,47.0,7.0,17.0
+ABCB1,8.0,7.0,Hyperlipidemia,30.0,47.0,-1.0,17.0
+ABCB1,22.0,23.0,Myocardial Infarction,30.0,47.0,1.0,17.0
+ABCG2,0.0,10.0,Thrombocytopenia,3.0,11.0,10.0,8.0
+ABCG2,2.0,0.0,Myocardial Infarction,3.0,11.0,-2.0,8.0
+ABCG2,1.0,1.0,Delirium,3.0,11.0,0.0,8.0
+ABL1,6.0,5.0,Thrombocytopenia,6.0,5.0,-1.0,-1.0
+ACAD9,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+ACE,1.0,1.0,Proteinuria,4.0,3.0,0.0,-1.0
+ACE,1.0,0.0,Edema,4.0,3.0,-1.0,-1.0
+ACE,1.0,1.0,Myocardial Infarction,4.0,3.0,0.0,-1.0
+ACE,1.0,1.0,Gastric ulcer,4.0,3.0,0.0,-1.0
+ACKR3,0.0,60.0,Pneumonia,0.0,60.0,60.0,60.0
+ADA,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+ADM,7.0,5.0,Gastric ulcer,50.0,44.0,-2.0,-6.0
+ADM,1.0,1.0,Cerebral Infarction,50.0,44.0,0.0,-6.0
+ADM,4.0,4.0,Hyperlipidemia,50.0,44.0,0.0,-6.0
+ADM,10.0,8.0,Sepsis,50.0,44.0,-2.0,-6.0
+ADM,28.0,26.0,Myocardial Infarction,50.0,44.0,-2.0,-6.0
+ADORA1,1.0,1.0,Cerebral Infarction,52.0,56.0,0.0,4.0
+ADORA1,51.0,55.0,Myocardial Infarction,52.0,56.0,4.0,4.0
+ADORA2A,0.0,2.0,Sepsis,0.0,2.0,2.0,2.0
+ADORA2B,28.0,26.0,Pneumonia,28.0,34.0,-2.0,6.0
+ADORA2B,0.0,8.0,Sepsis,28.0,34.0,8.0,6.0
+ADORA3,59.0,59.0,Pneumonia,108.0,112.0,0.0,4.0
+ADORA3,49.0,53.0,Myocardial Infarction,108.0,112.0,4.0,4.0
+ADRA1D,48.0,46.0,Myocardial Infarction,59.0,46.0,-2.0,-13.0
+ADRA1D,11.0,0.0,Sepsis,59.0,46.0,-11.0,-13.0
+ADRA2A,25.0,0.0,Sepsis,25.0,0.0,-25.0,-25.0
+ADRA2B,55.0,21.0,Myocardial Infarction,55.0,21.0,-34.0,-34.0
+ADRB1,4.0,0.0,Hyperlipidemia,32.0,6.0,-4.0,-26.0
+ADRB1,28.0,6.0,Myocardial Infarction,32.0,6.0,-22.0,-26.0
+ADRB2,6.0,5.0,Sepsis,44.0,37.0,-1.0,-7.0
+ADRB2,15.0,12.0,Pneumonia,44.0,37.0,-3.0,-7.0
+ADRB2,19.0,16.0,Myocardial Infarction,44.0,37.0,-3.0,-7.0
+ADRB2,4.0,4.0,Hyperlipidemia,44.0,37.0,0.0,-7.0
+ADRB3,7.0,0.0,Gastric ulcer,39.0,2.0,-7.0,-37.0
+ADRB3,4.0,0.0,Hyperlipidemia,39.0,2.0,-4.0,-37.0
+ADRB3,28.0,2.0,Myocardial Infarction,39.0,2.0,-26.0,-37.0
+AGK,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+AGT,1.0,1.0,Proteinuria,123.0,179.0,0.0,56.0
+AGT,1.0,1.0,Cerebral Infarction,123.0,179.0,0.0,56.0
+AGT,18.0,0.0,Edema,123.0,179.0,-18.0,56.0
+AGT,26.0,26.0,Sepsis,123.0,179.0,0.0,56.0
+AGT,0.0,58.0,Pneumonia,123.0,179.0,58.0,56.0
+AGT,69.0,70.0,Myocardial Infarction,123.0,179.0,1.0,56.0
+AGT,0.0,23.0,Gastric ulcer,123.0,179.0,23.0,56.0
+AGT,8.0,0.0,Hyperlipidemia,123.0,179.0,-8.0,56.0
+AGTR1,0.0,1.0,Proteinuria,4.0,6.0,1.0,2.0
+AGTR1,4.0,5.0,Myocardial Infarction,4.0,6.0,1.0,2.0
+AGTR2,8.0,0.0,Hyperlipidemia,83.0,79.0,-8.0,-4.0
+AGTR2,24.0,24.0,Sepsis,83.0,79.0,0.0,-4.0
+AGTR2,51.0,55.0,Myocardial Infarction,83.0,79.0,4.0,-4.0
+AHSG,23.0,0.0,Myocardial Infarction,23.0,0.0,-23.0,-23.0
+AKT1,4.0,0.0,Tardive Dyskinesia,5.0,0.0,-4.0,-5.0
+AKT1,1.0,0.0,Edema,5.0,0.0,-1.0,-5.0
+ALAS1,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+ALB,4.0,5.0,Thrombocytopenia,34.0,83.0,1.0,49.0
+ALB,1.0,1.0,Pulmonary Edema,34.0,83.0,0.0,49.0
+ALB,14.0,13.0,Hyperlipidemia,34.0,83.0,-1.0,49.0
+ALB,0.0,11.0,Sepsis,34.0,83.0,11.0,49.0
+ALB,3.0,3.0,Proteinuria,34.0,83.0,0.0,49.0
+ALB,12.0,16.0,Pancreatitis,34.0,83.0,4.0,49.0
+ALB,0.0,34.0,Myocardial Infarction,34.0,83.0,34.0,49.0
+ALOX5,1.0,1.0,Sepsis,2.0,2.0,0.0,0.0
+ALOX5,1.0,1.0,Pneumonia,2.0,2.0,0.0,0.0
+AMY2A,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+ANGPT1,1.0,0.0,Cerebral Infarction,4.0,2.0,-1.0,-2.0
+ANGPT1,1.0,1.0,Myocardial Infarction,4.0,2.0,0.0,-2.0
+ANGPT1,1.0,1.0,Pneumonia,4.0,2.0,0.0,-2.0
+ANGPT1,1.0,0.0,Gastric ulcer,4.0,2.0,-1.0,-2.0
+ANXA1,0.0,16.0,Gastric ulcer,1.0,17.0,16.0,16.0
+ANXA1,1.0,1.0,Cerebral Infarction,1.0,17.0,0.0,16.0
+AP1M1,0.0,23.0,Myocardial Infarction,0.0,23.0,23.0,23.0
+AP2S1,7.0,7.0,Pancreatitis,7.0,7.0,0.0,0.0
+APOA1,11.0,12.0,Hyperlipidemia,36.0,62.0,1.0,26.0
+APOA1,3.0,3.0,Proteinuria,36.0,62.0,0.0,26.0
+APOA1,11.0,23.0,Myocardial Infarction,36.0,62.0,12.0,26.0
+APOA1,4.0,6.0,Edema,36.0,62.0,2.0,26.0
+APOA1,5.0,12.0,Pneumonia,36.0,62.0,7.0,26.0
+APOA1,2.0,6.0,Sepsis,36.0,62.0,4.0,26.0
+APOA2,11.0,23.0,Myocardial Infarction,22.0,35.0,12.0,13.0
+APOA2,11.0,12.0,Hyperlipidemia,22.0,35.0,1.0,13.0
+APOA4,11.0,12.0,Hyperlipidemia,22.0,35.0,1.0,13.0
+APOA4,11.0,23.0,Myocardial Infarction,22.0,35.0,12.0,13.0
+APOB,19.0,16.0,Myocardial Infarction,24.0,25.0,-3.0,1.0
+APOB,0.0,5.0,Sepsis,24.0,25.0,5.0,1.0
+APOB,4.0,4.0,Hyperlipidemia,24.0,25.0,0.0,1.0
+APOB,1.0,0.0,Cerebral Infarction,24.0,25.0,-1.0,1.0
+APOC1,7.0,6.0,Sepsis,44.0,41.0,-1.0,-3.0
+APOC1,23.0,23.0,Myocardial Infarction,44.0,41.0,0.0,-3.0
+APOC1,14.0,12.0,Hyperlipidemia,44.0,41.0,-2.0,-3.0
+APOC2,11.0,12.0,Hyperlipidemia,17.0,23.0,1.0,6.0
+APOC2,6.0,11.0,Pancreatitis,17.0,23.0,5.0,6.0
+APOC3,11.0,23.0,Myocardial Infarction,22.0,35.0,12.0,13.0
+APOC3,11.0,12.0,Hyperlipidemia,22.0,35.0,1.0,13.0
+APOE,23.0,0.0,Myocardial Infarction,99.0,0.0,-23.0,-99.0
+APOE,1.0,0.0,Cerebral Infarction,99.0,0.0,-1.0,-99.0
+APOE,14.0,0.0,Edema,99.0,0.0,-14.0,-99.0
+APOE,3.0,0.0,Proteinuria,99.0,0.0,-3.0,-99.0
+APOE,14.0,0.0,Hyperlipidemia,99.0,0.0,-14.0,-99.0
+APOE,5.0,0.0,Thrombocytopenia,99.0,0.0,-5.0,-99.0
+APOE,12.0,0.0,Tardive Dyskinesia,99.0,0.0,-12.0,-99.0
+APOE,8.0,0.0,Delirium,99.0,0.0,-8.0,-99.0
+APOE,7.0,0.0,Sepsis,99.0,0.0,-7.0,-99.0
+APOE,12.0,0.0,Pancreatitis,99.0,0.0,-12.0,-99.0
+APP,0.0,1.0,Cerebral Infarction,27.0,1.0,1.0,-26.0
+APP,27.0,0.0,Sepsis,27.0,1.0,-27.0,-26.0
+AR,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+ARHGEF7,1.0,0.0,Pneumonia,1.0,0.0,-1.0,-1.0
+ARRB2,8.0,7.0,Tardive Dyskinesia,8.0,7.0,-1.0,-1.0
+ARTN,1.0,1.0,Peripheral Neuropathy,2.0,1.0,0.0,-1.0
+ARTN,1.0,0.0,Cerebral Infarction,2.0,1.0,-1.0,-1.0
+ATM,5.0,0.0,Pneumonia,16.0,23.0,-5.0,7.0
+ATM,11.0,23.0,Myocardial Infarction,16.0,23.0,12.0,7.0
+AVP,0.0,5.0,Sepsis,0.0,5.0,5.0,5.0
+AVPR1A,1.0,0.0,Hemorrhage,49.0,46.0,-1.0,-3.0
+AVPR1A,48.0,46.0,Myocardial Infarction,49.0,46.0,-2.0,-3.0
+B2M,0.0,3.0,Thrombocytopenia,0.0,3.0,3.0,3.0
+BAAT,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+BBC3,7.0,0.0,Sepsis,7.0,0.0,-7.0,-7.0
+BCL2,1.0,1.0,Gastric ulcer,1.0,1.0,0.0,0.0
+BCR,7.0,4.0,Thrombocytopenia,7.0,4.0,-3.0,-3.0
+BDKRB1,22.0,1.0,Gastric ulcer,107.0,8.0,-21.0,-99.0
+BDKRB1,16.0,0.0,Edema,107.0,8.0,-16.0,-99.0
+BDKRB1,69.0,7.0,Myocardial Infarction,107.0,8.0,-62.0,-99.0
+BDKRB2,69.0,7.0,Myocardial Infarction,106.0,12.0,-62.0,-94.0
+BDKRB2,13.0,1.0,Pancreatitis,106.0,12.0,-12.0,-94.0
+BDKRB2,22.0,1.0,Gastric ulcer,106.0,12.0,-21.0,-94.0
+BDKRB2,2.0,3.0,Hemorrhage,106.0,12.0,1.0,-94.0
+BECN1,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+BIN1,0.0,16.0,Myocardial Infarction,0.0,16.0,16.0,16.0
+BIRC3,0.0,1.0,Pneumonia,0.0,1.0,1.0,1.0
+BRAF,3.0,0.0,Thrombocytopenia,7.0,1.0,-3.0,-6.0
+BRAF,1.0,0.0,Edema,7.0,1.0,-1.0,-6.0
+BRAF,1.0,1.0,Pancreatitis,7.0,1.0,0.0,-6.0
+BRAF,2.0,0.0,Myocardial Infarction,7.0,1.0,-2.0,-6.0
+BRCA1,1.0,1.0,Sepsis,1.0,1.0,0.0,0.0
+BRCA2,1.0,1.0,Thrombocytopenia,1.0,1.0,0.0,0.0
+BRIP1,1.0,1.0,Thrombocytopenia,1.0,1.0,0.0,0.0
+BTK,3.0,0.0,Thrombocytopenia,4.0,1.0,-3.0,-3.0
+BTK,1.0,1.0,Pneumonia,4.0,1.0,0.0,-3.0
+C3,24.0,0.0,Sepsis,143.0,121.0,-24.0,-22.0
+C3,60.0,59.0,Pneumonia,143.0,121.0,-1.0,-22.0
+C3,8.0,9.0,Hyperlipidemia,143.0,121.0,1.0,-22.0
+C3,51.0,53.0,Myocardial Infarction,143.0,121.0,2.0,-22.0
+C3AR1,60.0,60.0,Pneumonia,84.0,84.0,0.0,0.0
+C3AR1,24.0,24.0,Sepsis,84.0,84.0,0.0,0.0
+C5,24.0,24.0,Sepsis,24.0,24.0,0.0,0.0
+C5AR1,24.0,24.0,Sepsis,84.0,84.0,0.0,0.0
+C5AR1,60.0,60.0,Pneumonia,84.0,84.0,0.0,0.0
+C6,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+CALCA,9.0,9.0,Pancreatitis,35.0,33.0,0.0,-2.0
+CALCA,16.0,16.0,Edema,35.0,33.0,0.0,-2.0
+CALCA,10.0,8.0,Sepsis,35.0,33.0,-2.0,-2.0
+CALCR,0.0,26.0,Myocardial Infarction,0.0,26.0,26.0,26.0
+CALM3,1.0,0.0,Cerebral Infarction,1.0,0.0,-1.0,-1.0
+CALR,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+CAMTA1,14.0,0.0,Edema,14.0,0.0,-14.0,-14.0
+CARD11,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+CASP1,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+CASP3,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+CASR,13.0,13.0,Pancreatitis,82.0,85.0,0.0,3.0
+CASR,69.0,72.0,Myocardial Infarction,82.0,85.0,3.0,3.0
+CAV1,6.0,0.0,Pneumonia,6.0,0.0,-6.0,-6.0
+CBL,10.0,0.0,Edema,10.0,0.0,-10.0,-10.0
+CCK,8.0,8.0,Pancreatitis,26.0,25.0,0.0,-1.0
+CCK,18.0,17.0,Gastric ulcer,26.0,25.0,-1.0,-1.0
+CCL16,0.0,53.0,Myocardial Infarction,0.0,53.0,53.0,53.0
+CCL19,60.0,58.0,Pneumonia,60.0,58.0,-2.0,-2.0
+CCL2,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+CCL20,60.0,58.0,Pneumonia,60.0,58.0,-2.0,-2.0
+CCL5,51.0,53.0,Myocardial Infarction,155.0,133.0,2.0,-22.0
+CCL5,60.0,58.0,Pneumonia,155.0,133.0,-2.0,-22.0
+CCL5,1.0,1.0,Cerebral Infarction,155.0,133.0,0.0,-22.0
+CCL5,11.0,11.0,Pancreatitis,155.0,133.0,0.0,-22.0
+CCL5,24.0,0.0,Sepsis,155.0,133.0,-24.0,-22.0
+CCL5,8.0,9.0,Hyperlipidemia,155.0,133.0,1.0,-22.0
+CCL5,0.0,1.0,Thrombocytopenia,155.0,133.0,1.0,-22.0
+CCR1,60.0,60.0,Pneumonia,132.0,60.0,0.0,-72.0
+CCR1,10.0,0.0,Edema,132.0,60.0,-10.0,-72.0
+CCR1,11.0,0.0,Pancreatitis,132.0,60.0,-11.0,-72.0
+CCR1,51.0,0.0,Myocardial Infarction,132.0,60.0,-51.0,-72.0
+CCR2,60.0,60.0,Pneumonia,143.0,149.0,0.0,6.0
+CCR2,8.0,10.0,Hyperlipidemia,143.0,149.0,2.0,6.0
+CCR2,24.0,24.0,Sepsis,143.0,149.0,0.0,6.0
+CCR2,51.0,55.0,Myocardial Infarction,143.0,149.0,4.0,6.0
+CCR3,50.0,54.0,Myocardial Infarction,109.0,113.0,4.0,4.0
+CCR3,59.0,59.0,Pneumonia,109.0,113.0,0.0,4.0
+CCR5,0.0,24.0,Sepsis,60.0,89.0,24.0,29.0
+CCR5,51.0,55.0,Myocardial Infarction,60.0,89.0,4.0,29.0
+CCR5,8.0,10.0,Hyperlipidemia,60.0,89.0,2.0,29.0
+CCR5,1.0,0.0,Pulmonary Edema,60.0,89.0,-1.0,29.0
+CCR6,60.0,60.0,Pneumonia,60.0,60.0,0.0,0.0
+CCR7,8.0,10.0,Hyperlipidemia,8.0,10.0,2.0,2.0
+CCR8,60.0,60.0,Pneumonia,60.0,60.0,0.0,0.0
+CCR9,60.0,60.0,Pneumonia,60.0,60.0,0.0,0.0
+CD14,0.0,1.0,Sepsis,2.0,5.0,1.0,3.0
+CD14,1.0,1.0,Pancreatitis,2.0,5.0,0.0,3.0
+CD14,1.0,3.0,Myocardial Infarction,2.0,5.0,2.0,3.0
+CD19,1.0,0.0,Pneumonia,4.0,0.0,-1.0,-4.0
+CD19,3.0,0.0,Thrombocytopenia,4.0,0.0,-3.0,-4.0
+CD274,1.0,0.0,Pneumonia,1.0,0.0,-1.0,-1.0
+CD28,1.0,0.0,Edema,1.0,1.0,-1.0,0.0
+CD28,0.0,1.0,Myocardial Infarction,1.0,1.0,1.0,0.0
+CD36,1.0,2.0,Myocardial Infarction,1.0,2.0,1.0,1.0
+CD3D,0.0,5.0,Sepsis,0.0,5.0,5.0,5.0
+CD4,8.0,8.0,Pancreatitis,8.0,8.0,0.0,0.0
+CD80,2.0,2.0,Sepsis,2.0,2.0,0.0,0.0
+CD86,2.0,2.0,Pneumonia,4.0,4.0,0.0,0.0
+CD86,2.0,2.0,Sepsis,4.0,4.0,0.0,0.0
+CDC42,1.0,0.0,Edema,3.0,2.0,-1.0,-1.0
+CDC42,1.0,1.0,Cerebral Infarction,3.0,2.0,0.0,-1.0
+CDC42,1.0,1.0,Pneumonia,3.0,2.0,0.0,-1.0
+CDCP1,14.0,0.0,Hyperlipidemia,37.0,0.0,-14.0,-37.0
+CDCP1,23.0,0.0,Myocardial Infarction,37.0,0.0,-23.0,-37.0
+CFB,6.0,0.0,Pneumonia,9.0,0.0,-6.0,-9.0
+CFB,3.0,0.0,Sepsis,9.0,0.0,-3.0,-9.0
+CFH,11.0,0.0,Myocardial Infarction,19.0,0.0,-11.0,-19.0
+CFH,3.0,0.0,Thrombocytopenia,19.0,0.0,-3.0,-19.0
+CFH,3.0,0.0,Proteinuria,19.0,0.0,-3.0,-19.0
+CFH,2.0,0.0,Sepsis,19.0,0.0,-2.0,-19.0
+CFTR,0.0,1.0,Gastric ulcer,0.0,1.0,1.0,1.0
+CHEK2,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+CHRM1,0.0,46.0,Myocardial Infarction,0.0,46.0,46.0,46.0
+CHRM2,21.0,0.0,Myocardial Infarction,21.0,0.0,-21.0,-21.0
+CHRM3,0.0,45.0,Myocardial Infarction,0.0,45.0,45.0,45.0
+CHRNA4,0.0,2.0,Myocardial Infarction,0.0,2.0,2.0,2.0
+CHUK,1.0,1.0,Pneumonia,1.0,1.0,0.0,0.0
+CNR1,51.0,0.0,Myocardial Infarction,90.0,1.0,-51.0,-89.0
+CNR1,20.0,0.0,Tardive Dyskinesia,90.0,1.0,-20.0,-89.0
+CNR1,8.0,1.0,Hyperlipidemia,90.0,1.0,-7.0,-89.0
+CNR1,11.0,0.0,Pancreatitis,90.0,1.0,-11.0,-89.0
+CNR2,11.0,11.0,Pancreatitis,11.0,66.0,0.0,55.0
+CNR2,0.0,55.0,Myocardial Infarction,11.0,66.0,55.0,55.0
+COMT,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+CREB1,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+CRH,10.0,8.0,Sepsis,10.0,8.0,-2.0,-2.0
+CRK,0.0,2.0,Pneumonia,0.0,2.0,2.0,2.0
+CSF2,1.0,0.0,Cerebral Infarction,20.0,9.0,-1.0,-11.0
+CSF2,1.0,0.0,Peripheral Neuropathy,20.0,9.0,-1.0,-11.0
+CSF2,5.0,2.0,Pneumonia,20.0,9.0,-3.0,-11.0
+CSF2,10.0,5.0,Thrombocytopenia,20.0,9.0,-5.0,-11.0
+CSF2,1.0,1.0,Sepsis,20.0,9.0,0.0,-11.0
+CSF2,2.0,1.0,Myocardial Infarction,20.0,9.0,-1.0,-11.0
+CSF3R,0.0,1.0,Thrombocytopenia,0.0,1.0,1.0,1.0
+CST3,23.0,0.0,Myocardial Infarction,23.0,0.0,-23.0,-23.0
+CTSL,3.0,3.0,Proteinuria,15.0,14.0,0.0,-1.0
+CTSL,12.0,11.0,Pancreatitis,15.0,14.0,-1.0,-1.0
+CXCL1,2.0,0.0,Hemorrhage,62.0,58.0,-2.0,-4.0
+CXCL1,60.0,58.0,Pneumonia,62.0,58.0,-2.0,-4.0
+CXCL10,51.0,53.0,Myocardial Infarction,51.0,113.0,2.0,62.0
+CXCL10,0.0,1.0,Proteinuria,51.0,113.0,1.0,62.0
+CXCL10,0.0,58.0,Pneumonia,51.0,113.0,58.0,62.0
+CXCL10,0.0,1.0,Thrombocytopenia,51.0,113.0,1.0,62.0
+CXCL12,60.0,59.0,Pneumonia,136.0,138.0,-1.0,2.0
+CXCL12,51.0,54.0,Myocardial Infarction,136.0,138.0,3.0,2.0
+CXCL12,0.0,1.0,Thrombocytopenia,136.0,138.0,1.0,2.0
+CXCL12,24.0,23.0,Sepsis,136.0,138.0,-1.0,2.0
+CXCL12,1.0,1.0,Cerebral Infarction,136.0,138.0,0.0,2.0
+CXCL13,60.0,58.0,Pneumonia,60.0,58.0,-2.0,-2.0
+CXCL2,1.0,1.0,Pulmonary Edema,87.0,82.0,0.0,-5.0
+CXCL2,24.0,23.0,Sepsis,87.0,82.0,-1.0,-5.0
+CXCL2,2.0,0.0,Hemorrhage,87.0,82.0,-2.0,-5.0
+CXCL2,60.0,58.0,Pneumonia,87.0,82.0,-2.0,-5.0
+CXCL5,60.0,58.0,Pneumonia,60.0,58.0,-2.0,-2.0
+CXCL6,56.0,54.0,Myocardial Infarction,56.0,54.0,-2.0,-2.0
+CXCL8,1.0,1.0,Cerebral Infarction,182.0,184.0,0.0,2.0
+CXCL8,10.0,10.0,Delirium,182.0,184.0,0.0,2.0
+CXCL8,14.0,15.0,Gastric ulcer,182.0,184.0,1.0,2.0
+CXCL8,24.0,23.0,Sepsis,182.0,184.0,-1.0,2.0
+CXCL8,1.0,1.0,Pulmonary Edema,182.0,184.0,0.0,2.0
+CXCL8,60.0,58.0,Pneumonia,182.0,184.0,-2.0,2.0
+CXCL8,51.0,53.0,Myocardial Infarction,182.0,184.0,2.0,2.0
+CXCL8,10.0,11.0,Edema,182.0,184.0,1.0,2.0
+CXCL8,11.0,11.0,Pancreatitis,182.0,184.0,0.0,2.0
+CXCL8,0.0,1.0,Thrombocytopenia,182.0,184.0,1.0,2.0
+CXCL9,60.0,58.0,Pneumonia,60.0,58.0,-2.0,-2.0
+CXCR1,0.0,55.0,Myocardial Infarction,0.0,55.0,55.0,55.0
+CXCR2,60.0,60.0,Pneumonia,84.0,139.0,0.0,55.0
+CXCR2,0.0,55.0,Myocardial Infarction,84.0,139.0,55.0,55.0
+CXCR2,24.0,24.0,Sepsis,84.0,139.0,0.0,55.0
+CXCR3,60.0,60.0,Pneumonia,60.0,60.0,0.0,0.0
+CXCR4,24.0,24.0,Sepsis,85.0,140.0,0.0,55.0
+CXCR4,60.0,60.0,Pneumonia,85.0,140.0,0.0,55.0
+CXCR4,1.0,0.0,Cerebral Infarction,85.0,140.0,-1.0,55.0
+CXCR4,0.0,55.0,Myocardial Infarction,85.0,140.0,55.0,55.0
+CXCR4,0.0,1.0,Thrombocytopenia,85.0,140.0,1.0,55.0
+CXCR5,51.0,55.0,Myocardial Infarction,51.0,55.0,4.0,4.0
+CYP11B2,1.0,0.0,Myocardial Infarction,1.0,0.0,-1.0,-1.0
+CYP17A1,2.0,0.0,Myocardial Infarction,2.0,0.0,-2.0,-2.0
+CYP19A1,1.0,1.0,Hyperlipidemia,1.0,1.0,0.0,0.0
+CYP1A1,5.0,5.0,Myocardial Infarction,20.0,14.0,0.0,-6.0
+CYP1A1,6.0,5.0,Pancreatitis,20.0,14.0,-1.0,-6.0
+CYP1A1,5.0,0.0,Sepsis,20.0,14.0,-5.0,-6.0
+CYP1A1,4.0,4.0,Pneumonia,20.0,14.0,0.0,-6.0
+CYP1A2,9.0,7.0,Sepsis,49.0,37.0,-2.0,-12.0
+CYP1A2,25.0,18.0,Myocardial Infarction,49.0,37.0,-7.0,-12.0
+CYP1A2,15.0,12.0,Tardive Dyskinesia,49.0,37.0,-3.0,-12.0
+CYP1B1,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+CYP2B6,7.0,6.0,Myocardial Infarction,12.0,10.0,-1.0,-2.0
+CYP2B6,5.0,4.0,Tardive Dyskinesia,12.0,10.0,-1.0,-2.0
+CYP2C19,12.0,10.0,Hyperlipidemia,36.0,33.0,-2.0,-3.0
+CYP2C19,14.0,14.0,Myocardial Infarction,36.0,33.0,0.0,-3.0
+CYP2C19,2.0,0.0,Thrombocytopenia,36.0,33.0,-2.0,-3.0
+CYP2C19,8.0,9.0,Gastric ulcer,36.0,33.0,1.0,-3.0
+CYP2C8,7.0,0.0,Gastric ulcer,24.0,16.0,-7.0,-8.0
+CYP2C8,0.0,7.0,Sepsis,24.0,16.0,7.0,-8.0
+CYP2C8,11.0,8.0,Myocardial Infarction,24.0,16.0,-3.0,-8.0
+CYP2C8,6.0,0.0,Hyperlipidemia,24.0,16.0,-6.0,-8.0
+CYP2C8,0.0,1.0,Peripheral Neuropathy,24.0,16.0,1.0,-8.0
+CYP2C9,3.0,0.0,Thrombocytopenia,37.0,30.0,-3.0,-7.0
+CYP2C9,15.0,12.0,Myocardial Infarction,37.0,30.0,-3.0,-7.0
+CYP2C9,9.0,8.0,Hyperlipidemia,37.0,30.0,-1.0,-7.0
+CYP2C9,10.0,10.0,Gastric ulcer,37.0,30.0,0.0,-7.0
+CYP2D6,23.0,22.0,Tardive Dyskinesia,76.0,52.0,-1.0,-24.0
+CYP2D6,14.0,0.0,Gastric ulcer,76.0,52.0,-14.0,-24.0
+CYP2D6,7.0,5.0,Hyperlipidemia,76.0,52.0,-2.0,-24.0
+CYP2D6,32.0,25.0,Myocardial Infarction,76.0,52.0,-7.0,-24.0
+CYP2E1,12.0,7.0,Pneumonia,23.0,10.0,-5.0,-13.0
+CYP2E1,5.0,3.0,Pancreatitis,23.0,10.0,-2.0,-13.0
+CYP2E1,6.0,0.0,Sepsis,23.0,10.0,-6.0,-13.0
+CYP3A4,34.0,37.0,Myocardial Infarction,82.0,70.0,3.0,-12.0
+CYP3A4,14.0,0.0,Hyperlipidemia,82.0,70.0,-14.0,-12.0
+CYP3A4,20.0,20.0,Tardive Dyskinesia,82.0,70.0,0.0,-12.0
+CYP3A4,2.0,2.0,Cerebral Infarction,82.0,70.0,0.0,-12.0
+CYP3A4,11.0,10.0,Delirium,82.0,70.0,-1.0,-12.0
+CYP3A4,1.0,1.0,Peripheral Neuropathy,82.0,70.0,0.0,-12.0
+CYP3A5,7.0,5.0,Delirium,39.0,5.0,-2.0,-34.0
+CYP3A5,8.0,0.0,Hyperlipidemia,39.0,5.0,-8.0,-34.0
+CYP3A5,13.0,0.0,Tardive Dyskinesia,39.0,5.0,-13.0,-34.0
+CYP3A5,11.0,0.0,Myocardial Infarction,39.0,5.0,-11.0,-34.0
+CYP4A11,1.0,0.0,Myocardial Infarction,1.0,0.0,-1.0,-1.0
+CYSLTR1,35.0,0.0,Pneumonia,35.0,0.0,-35.0,-35.0
+DAB2,19.0,16.0,Myocardial Infarction,19.0,16.0,-3.0,-3.0
+DCLRE1C,1.0,1.0,Edema,3.0,2.0,0.0,-1.0
+DCLRE1C,1.0,0.0,Sepsis,3.0,2.0,-1.0,-1.0
+DCLRE1C,1.0,1.0,Thrombocytopenia,3.0,2.0,0.0,-1.0
+DLD,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+DLG4,1.0,0.0,Cerebral Infarction,1.0,0.0,-1.0,-1.0
+DNAJC6,0.0,16.0,Myocardial Infarction,0.0,16.0,16.0,16.0
+DRD1,16.0,16.0,Tardive Dyskinesia,16.0,26.0,0.0,10.0
+DRD1,0.0,10.0,Myocardial Infarction,16.0,26.0,10.0,10.0
+DRD2,18.0,19.0,Tardive Dyskinesia,26.0,27.0,1.0,1.0
+DRD2,8.0,8.0,Delirium,26.0,27.0,0.0,1.0
+DRD3,17.0,15.0,Tardive Dyskinesia,27.0,21.0,-2.0,-6.0
+DRD3,10.0,6.0,Delirium,27.0,21.0,-4.0,-6.0
+DRD4,15.0,16.0,Tardive Dyskinesia,15.0,16.0,1.0,1.0
+EDN1,18.0,17.0,Gastric ulcer,82.0,78.0,-1.0,-4.0
+EDN1,9.0,7.0,Sepsis,82.0,78.0,-2.0,-4.0
+EDN1,8.0,8.0,Pancreatitis,82.0,78.0,0.0,-4.0
+EDN1,47.0,46.0,Myocardial Infarction,82.0,78.0,-1.0,-4.0
+EDN2,47.0,46.0,Myocardial Infarction,47.0,46.0,-1.0,-1.0
+EDN3,9.0,0.0,Sepsis,9.0,0.0,-9.0,-9.0
+EDNRA,8.0,0.0,Pancreatitis,56.0,0.0,-8.0,-56.0
+EDNRA,48.0,0.0,Myocardial Infarction,56.0,0.0,-48.0,-56.0
+EDNRB,48.0,0.0,Myocardial Infarction,60.0,0.0,-48.0,-60.0
+EDNRB,1.0,0.0,Cerebral Infarction,60.0,0.0,-1.0,-60.0
+EDNRB,11.0,0.0,Sepsis,60.0,0.0,-11.0,-60.0
+EFNA5,0.0,5.0,Thrombocytopenia,0.0,5.0,5.0,5.0
+EGF,1.0,0.0,Peripheral Neuropathy,13.0,11.0,-1.0,-2.0
+EGF,12.0,11.0,Gastric ulcer,13.0,11.0,-1.0,-2.0
+EGFR,11.0,0.0,Gastric ulcer,27.0,0.0,-11.0,-27.0
+EGFR,16.0,0.0,Pneumonia,27.0,0.0,-16.0,-27.0
+ELANE,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+ERBB2,1.0,0.0,Peripheral Neuropathy,1.0,0.0,-1.0,-1.0
+ERBB3,1.0,1.0,Edema,1.0,1.0,0.0,0.0
+ERBB4,0.0,3.0,Myocardial Infarction,0.0,3.0,3.0,3.0
+ESR1,1.0,0.0,Hyperlipidemia,4.0,3.0,-1.0,-1.0
+ESR1,3.0,3.0,Myocardial Infarction,4.0,3.0,0.0,-1.0
+ESR2,1.0,1.0,Myocardial Infarction,2.0,1.0,0.0,-1.0
+ESR2,1.0,0.0,Hyperlipidemia,2.0,1.0,-1.0,-1.0
+F10,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+F2,1.0,1.0,Cerebral Infarction,71.0,69.0,0.0,-2.0
+F2,10.0,8.0,Sepsis,71.0,69.0,-2.0,-2.0
+F2,5.0,5.0,Hemorrhage,71.0,69.0,0.0,-2.0
+F2,6.0,7.0,Hyperlipidemia,71.0,69.0,1.0,-2.0
+F2,49.0,48.0,Myocardial Infarction,71.0,69.0,-1.0,-2.0
+F2R,36.0,1.0,Pneumonia,116.0,8.0,-35.0,-108.0
+F2R,49.0,1.0,Myocardial Infarction,116.0,8.0,-48.0,-108.0
+F2R,1.0,0.0,Hemorrhage,116.0,8.0,-1.0,-108.0
+F2R,0.0,4.0,Thrombocytopenia,116.0,8.0,4.0,-108.0
+F2R,11.0,1.0,Sepsis,116.0,8.0,-10.0,-108.0
+F2R,17.0,0.0,Tardive Dyskinesia,116.0,8.0,-17.0,-108.0
+F2R,1.0,0.0,Cerebral Infarction,116.0,8.0,-1.0,-108.0
+F2R,1.0,1.0,Pulmonary Edema,116.0,8.0,0.0,-108.0
+F2RL1,48.0,0.0,Myocardial Infarction,83.0,0.0,-48.0,-83.0
+F2RL1,35.0,0.0,Pneumonia,83.0,0.0,-35.0,-83.0
+F2RL3,0.0,1.0,Sepsis,1.0,1.0,1.0,0.0
+F2RL3,1.0,0.0,Cerebral Infarction,1.0,1.0,-1.0,0.0
+F3,1.0,0.0,Myocardial Infarction,1.0,0.0,-1.0,-1.0
+F5,1.0,0.0,Hemorrhage,2.0,0.0,-1.0,-2.0
+F5,1.0,0.0,Sepsis,2.0,0.0,-1.0,-2.0
+F7,2.0,0.0,Sepsis,29.0,0.0,-2.0,-29.0
+F7,2.0,0.0,Hemorrhage,29.0,0.0,-2.0,-29.0
+F7,13.0,0.0,Hyperlipidemia,29.0,0.0,-13.0,-29.0
+F7,12.0,0.0,Myocardial Infarction,29.0,0.0,-12.0,-29.0
+FABP2,1.0,0.0,Hyperlipidemia,2.0,0.0,-1.0,-2.0
+FABP2,1.0,0.0,Myocardial Infarction,2.0,0.0,-1.0,-2.0
+FABP5,1.0,0.0,Pneumonia,1.0,0.0,-1.0,-1.0
+FCGR1A,2.0,2.0,Pneumonia,2.0,2.0,0.0,0.0
+FCGR2A,2.0,2.0,Pneumonia,3.0,3.0,0.0,0.0
+FCGR2A,1.0,1.0,Thrombocytopenia,3.0,3.0,0.0,0.0
+FCGR2B,0.0,2.0,Pneumonia,0.0,2.0,2.0,2.0
+FCGR2C,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+FCGR3A,1.0,0.0,Thrombocytopenia,3.0,2.0,-1.0,-1.0
+FCGR3A,2.0,2.0,Pneumonia,3.0,2.0,0.0,-1.0
+FCGR3B,2.0,0.0,Pneumonia,2.0,0.0,-2.0,-2.0
+FGA,2.0,1.0,Pancreatitis,14.0,4.0,-1.0,-10.0
+FGA,1.0,0.0,Sepsis,14.0,4.0,-1.0,-10.0
+FGA,3.0,0.0,Cerebral Infarction,14.0,4.0,-3.0,-10.0
+FGA,5.0,0.0,Hemorrhage,14.0,4.0,-5.0,-10.0
+FGA,2.0,2.0,Myocardial Infarction,14.0,4.0,0.0,-10.0
+FGA,1.0,1.0,Deep Vein Thrombosis,14.0,4.0,0.0,-10.0
+FGB,2.0,0.0,Myocardial Infarction,14.0,0.0,-2.0,-14.0
+FGB,1.0,0.0,Sepsis,14.0,0.0,-1.0,-14.0
+FGB,1.0,0.0,Deep Vein Thrombosis,14.0,0.0,-1.0,-14.0
+FGB,5.0,0.0,Hemorrhage,14.0,0.0,-5.0,-14.0
+FGB,2.0,0.0,Pancreatitis,14.0,0.0,-2.0,-14.0
+FGB,3.0,0.0,Cerebral Infarction,14.0,0.0,-3.0,-14.0
+FGF1,0.0,3.0,Myocardial Infarction,0.0,3.0,3.0,3.0
+FGF10,3.0,3.0,Pulmonary Edema,3.0,3.0,0.0,0.0
+FGF2,1.0,1.0,Cerebral Infarction,6.0,7.0,0.0,1.0
+FGF2,3.0,3.0,Gastric ulcer,6.0,7.0,0.0,1.0
+FGF2,2.0,3.0,Myocardial Infarction,6.0,7.0,1.0,1.0
+FGF20,0.0,3.0,Myocardial Infarction,0.0,3.0,3.0,3.0
+FGF4,0.0,13.0,Thrombocytopenia,0.0,13.0,13.0,13.0
+FGF7,3.0,3.0,Pneumonia,6.0,5.0,0.0,-1.0
+FGF7,3.0,2.0,Pulmonary Edema,6.0,5.0,-1.0,-1.0
+FGFR1,0.0,11.0,Thrombocytopenia,3.0,11.0,11.0,8.0
+FGFR1,3.0,0.0,Gastric ulcer,3.0,11.0,-3.0,8.0
+FGFR2,3.0,3.0,Gastric ulcer,3.0,14.0,0.0,11.0
+FGFR2,0.0,11.0,Thrombocytopenia,3.0,14.0,11.0,11.0
+FGFR3,2.0,2.0,Myocardial Infarction,3.0,2.0,0.0,-1.0
+FGFR3,1.0,0.0,Edema,3.0,2.0,-1.0,-1.0
+FGFR4,1.0,0.0,Peripheral Neuropathy,1.0,0.0,-1.0,-1.0
+FGG,2.0,0.0,Pancreatitis,6.0,0.0,-2.0,-6.0
+FGG,1.0,0.0,Pneumonia,6.0,0.0,-1.0,-6.0
+FGG,1.0,0.0,Deep Vein Thrombosis,6.0,0.0,-1.0,-6.0
+FGG,2.0,0.0,Myocardial Infarction,6.0,0.0,-2.0,-6.0
+FMO3,2.0,0.0,Pneumonia,2.0,0.0,-2.0,-2.0
+FN1,6.0,0.0,Pneumonia,32.0,0.0,-6.0,-32.0
+FN1,4.0,0.0,Edema,32.0,0.0,-4.0,-32.0
+FN1,3.0,0.0,Sepsis,32.0,0.0,-3.0,-32.0
+FN1,3.0,0.0,Gastric ulcer,32.0,0.0,-3.0,-32.0
+FN1,13.0,0.0,Myocardial Infarction,32.0,0.0,-13.0,-32.0
+FN1,3.0,0.0,Proteinuria,32.0,0.0,-3.0,-32.0
+FPR1,1.0,0.0,Pulmonary Edema,1.0,0.0,-1.0,-1.0
+FPR2,24.0,24.0,Sepsis,24.0,24.0,0.0,0.0
+FSHR,16.0,0.0,Edema,21.0,0.0,-16.0,-21.0
+FSHR,1.0,0.0,Pulmonary Edema,21.0,0.0,-1.0,-21.0
+FSHR,4.0,0.0,Hyperlipidemia,21.0,0.0,-4.0,-21.0
+FYN,4.0,0.0,Sepsis,4.0,0.0,-4.0,-4.0
+GAK,0.0,5.0,Sepsis,0.0,5.0,5.0,5.0
+GAL,23.0,23.0,Sepsis,31.0,91.0,0.0,60.0
+GAL,8.0,0.0,Hyperlipidemia,31.0,91.0,-8.0,60.0
+GAL,0.0,53.0,Myocardial Infarction,31.0,91.0,53.0,60.0
+GAL,0.0,15.0,Gastric ulcer,31.0,91.0,15.0,60.0
+GALR1,0.0,3.0,Myocardial Infarction,0.0,3.0,3.0,3.0
+GAST,9.0,7.0,Sepsis,27.0,24.0,-2.0,-3.0
+GAST,18.0,17.0,Gastric ulcer,27.0,24.0,-1.0,-3.0
+GCG,4.0,4.0,Hyperlipidemia,55.0,30.0,0.0,-25.0
+GCG,51.0,26.0,Myocardial Infarction,55.0,30.0,-25.0,-25.0
+GDNF,1.0,1.0,Cerebral Infarction,2.0,2.0,0.0,0.0
+GDNF,1.0,1.0,Peripheral Neuropathy,2.0,2.0,0.0,0.0
+GFAP,23.0,0.0,Myocardial Infarction,24.0,0.0,-23.0,-24.0
+GFAP,1.0,0.0,Cerebral Infarction,24.0,0.0,-1.0,-24.0
+GFRA1,1.0,1.0,Peripheral Neuropathy,1.0,1.0,0.0,0.0
+GH1,0.0,1.0,Sepsis,1.0,2.0,1.0,1.0
+GH1,1.0,1.0,Hyperlipidemia,1.0,2.0,0.0,1.0
+GHR,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+GHRH,1.0,1.0,Pulmonary Edema,29.0,27.0,0.0,-2.0
+GHRH,28.0,26.0,Myocardial Infarction,29.0,27.0,-2.0,-2.0
+GHRL,47.0,46.0,Myocardial Infarction,73.0,71.0,-1.0,-2.0
+GHRL,8.0,8.0,Pancreatitis,73.0,71.0,0.0,-2.0
+GHRL,18.0,17.0,Gastric ulcer,73.0,71.0,-1.0,-2.0
+GHSR,48.0,46.0,Myocardial Infarction,48.0,46.0,-2.0,-2.0
+GIP,0.0,26.0,Myocardial Infarction,0.0,26.0,26.0,26.0
+GJC2,14.0,0.0,Edema,14.0,0.0,-14.0,-14.0
+GNAQ,14.0,0.0,Edema,14.0,0.0,-14.0,-14.0
+GPER1,0.0,55.0,Myocardial Infarction,0.0,55.0,55.0,55.0
+GPR17,0.0,7.0,Myocardial Infarction,0.0,7.0,7.0,7.0
+GPR65,0.0,46.0,Myocardial Infarction,0.0,46.0,46.0,46.0
+GRAP2,2.0,6.0,Sepsis,2.0,18.0,4.0,16.0
+GRAP2,0.0,12.0,Pneumonia,2.0,18.0,12.0,16.0
+GRIN2A,0.0,1.0,Myocardial Infarction,2.0,1.0,1.0,-1.0
+GRIN2A,2.0,0.0,Sepsis,2.0,1.0,-2.0,-1.0
+GRIN2B,1.0,1.0,Tardive Dyskinesia,1.0,1.0,0.0,0.0
+GRM8,51.0,4.0,Myocardial Infarction,51.0,4.0,-47.0,-47.0
+GRP,9.0,7.0,Sepsis,9.0,7.0,-2.0,-2.0
+GRPR,11.0,7.0,Sepsis,11.0,7.0,-4.0,-4.0
+GSN,23.0,0.0,Myocardial Infarction,30.0,0.0,-23.0,-30.0
+GSN,7.0,0.0,Sepsis,30.0,0.0,-7.0,-30.0
+GSTM1,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+GSTP1,0.0,1.0,Myocardial Infarction,1.0,4.0,1.0,3.0
+GSTP1,1.0,2.0,Pancreatitis,1.0,4.0,1.0,3.0
+GSTP1,0.0,1.0,Pneumonia,1.0,4.0,1.0,3.0
+GSTT1,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+HBEGF,1.0,1.0,Cerebral Infarction,3.0,4.0,0.0,1.0
+HBEGF,2.0,3.0,Myocardial Infarction,3.0,4.0,1.0,1.0
+HGF,1.0,1.0,Cerebral Infarction,14.0,24.0,0.0,10.0
+HGF,0.0,11.0,Thrombocytopenia,14.0,24.0,11.0,10.0
+HGF,3.0,3.0,Gastric ulcer,14.0,24.0,0.0,10.0
+HGF,4.0,4.0,Pancreatitis,14.0,24.0,0.0,10.0
+HGF,3.0,3.0,Pneumonia,14.0,24.0,0.0,10.0
+HGF,1.0,0.0,Peripheral Neuropathy,14.0,24.0,-1.0,10.0
+HGF,2.0,2.0,Myocardial Infarction,14.0,24.0,0.0,10.0
+HLA-DPA1,0.0,3.0,Thrombocytopenia,0.0,3.0,3.0,3.0
+HLA-DPB1,0.0,1.0,Pneumonia,1.0,1.0,1.0,0.0
+HLA-DPB1,1.0,0.0,Pancreatitis,1.0,1.0,-1.0,0.0
+HLA-DQA1,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+HLA-DQA2,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+HLA-DQB1,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+HLA-DRB1,3.0,0.0,Thrombocytopenia,5.0,0.0,-3.0,-5.0
+HLA-DRB1,1.0,0.0,Pneumonia,5.0,0.0,-1.0,-5.0
+HLA-DRB1,1.0,0.0,Pancreatitis,5.0,0.0,-1.0,-5.0
+HLA-DRB3,3.0,3.0,Thrombocytopenia,3.0,3.0,0.0,0.0
+HLA-E,1.0,0.0,Pancreatitis,1.0,0.0,-1.0,-1.0
+HLCS,1.0,1.0,Thrombocytopenia,1.0,1.0,0.0,0.0
+HP,23.0,0.0,Myocardial Infarction,56.0,0.0,-23.0,-56.0
+HP,3.0,0.0,Proteinuria,56.0,0.0,-3.0,-56.0
+HP,14.0,0.0,Hyperlipidemia,56.0,0.0,-14.0,-56.0
+HP,16.0,0.0,Pneumonia,56.0,0.0,-16.0,-56.0
+HPSE,1.0,0.0,Myocardial Infarction,1.0,0.0,-1.0,-1.0
+HRAS,4.0,0.0,Pancreatitis,4.0,0.0,-4.0,-4.0
+HRG,2.0,0.0,Myocardial Infarction,4.0,0.0,-2.0,-4.0
+HRG,2.0,0.0,Sepsis,4.0,0.0,-2.0,-4.0
+HRH1,0.0,7.0,Sepsis,0.0,7.0,7.0,7.0
+HRH3,14.0,15.0,Gastric ulcer,14.0,15.0,1.0,1.0
+HTR1A,0.0,9.0,Delirium,0.0,9.0,9.0,9.0
+HTR1B,0.0,18.0,Myocardial Infarction,0.0,18.0,18.0,18.0
+HTR1D,48.0,52.0,Myocardial Infarction,48.0,52.0,4.0,4.0
+HTR1E,0.0,47.0,Myocardial Infarction,0.0,47.0,47.0,47.0
+HTR1F,19.0,0.0,Tardive Dyskinesia,19.0,0.0,-19.0,-19.0
+HTR2A,5.0,5.0,Pancreatitis,42.0,43.0,0.0,1.0
+HTR2A,16.0,18.0,Tardive Dyskinesia,42.0,43.0,2.0,1.0
+HTR2A,21.0,20.0,Myocardial Infarction,42.0,43.0,-1.0,1.0
+HTR2C,13.0,17.0,Tardive Dyskinesia,13.0,17.0,4.0,4.0
+HTR6,17.0,0.0,Tardive Dyskinesia,17.0,0.0,-17.0,-17.0
+IAPP,7.0,5.0,Gastric ulcer,7.0,5.0,-2.0,-2.0
+ICOS,5.0,0.0,Thrombocytopenia,6.0,1.0,-5.0,-5.0
+ICOS,1.0,1.0,Pneumonia,6.0,1.0,0.0,-5.0
+IFNA2,1.0,0.0,Thrombocytopenia,2.0,0.0,-1.0,-2.0
+IFNA2,1.0,0.0,Sepsis,2.0,0.0,-1.0,-2.0
+IFNAR1,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+IFNG,1.0,0.0,Sepsis,2.0,0.0,-1.0,-2.0
+IFNG,1.0,0.0,Pneumonia,2.0,0.0,-1.0,-2.0
+IGF2R,19.0,16.0,Myocardial Infarction,34.0,16.0,-3.0,-18.0
+IGF2R,15.0,0.0,Pneumonia,34.0,16.0,-15.0,-18.0
+IGHG3,0.0,1.0,Thrombocytopenia,0.0,1.0,1.0,1.0
+IKBKB,1.0,1.0,Pneumonia,1.0,1.0,0.0,0.0
+IL10RA,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+IL1B,1.0,1.0,Pancreatitis,1.0,2.0,0.0,1.0
+IL1B,0.0,1.0,Gastric ulcer,1.0,2.0,1.0,1.0
+IL1R1,1.0,1.0,Pneumonia,1.0,1.0,0.0,0.0
+IL2,1.0,1.0,Pulmonary Edema,9.0,8.0,0.0,-1.0
+IL2,2.0,1.0,Gastric ulcer,9.0,8.0,-1.0,-1.0
+IL2,1.0,1.0,Sepsis,9.0,8.0,0.0,-1.0
+IL2,5.0,5.0,Pneumonia,9.0,8.0,0.0,-1.0
+IL2RA,0.0,1.0,Pulmonary Edema,4.0,12.0,1.0,8.0
+IL2RA,1.0,0.0,Edema,4.0,12.0,-1.0,8.0
+IL2RA,1.0,1.0,Sepsis,4.0,12.0,0.0,8.0
+IL2RA,0.0,5.0,Pneumonia,4.0,12.0,5.0,8.0
+IL2RA,2.0,1.0,Pancreatitis,4.0,12.0,-1.0,8.0
+IL2RA,0.0,4.0,Thrombocytopenia,4.0,12.0,4.0,8.0
+IL2RB,1.0,0.0,Edema,6.0,5.0,-1.0,-1.0
+IL2RB,5.0,5.0,Pneumonia,6.0,5.0,0.0,-1.0
+IL2RG,5.0,5.0,Pneumonia,7.0,6.0,0.0,-1.0
+IL2RG,1.0,1.0,Edema,7.0,6.0,0.0,-1.0
+IL2RG,1.0,0.0,Sepsis,7.0,6.0,-1.0,-1.0
+IL3,10.0,5.0,Thrombocytopenia,11.0,5.0,-5.0,-6.0
+IL3,1.0,0.0,Peripheral Neuropathy,11.0,5.0,-1.0,-6.0
+IL4,1.0,0.0,Sepsis,3.0,0.0,-1.0,-3.0
+IL4,2.0,0.0,Pneumonia,3.0,0.0,-2.0,-3.0
+IL5,5.0,2.0,Pneumonia,5.0,2.0,-3.0,-3.0
+IL5RA,5.0,2.0,Pneumonia,5.0,2.0,-3.0,-3.0
+IL6,0.0,1.0,Thrombocytopenia,0.0,1.0,1.0,1.0
+IL6ST,1.0,1.0,Pneumonia,1.0,1.0,0.0,0.0
+IL7,1.0,0.0,Sepsis,3.0,0.0,-1.0,-3.0
+IL7,2.0,0.0,Pneumonia,3.0,0.0,-2.0,-3.0
+IL7R,1.0,0.0,Pneumonia,2.0,0.0,-1.0,-2.0
+IL7R,1.0,0.0,Sepsis,2.0,0.0,-1.0,-2.0
+INPPL1,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+IRAK1,1.0,2.0,Sepsis,1.0,2.0,1.0,1.0
+IRAK4,0.0,1.0,Sepsis,0.0,1.0,1.0,1.0
+IRS1,2.0,0.0,Sepsis,3.0,1.0,-2.0,-2.0
+IRS1,1.0,1.0,Hyperlipidemia,3.0,1.0,0.0,-2.0
+ITGA2,11.0,0.0,Myocardial Infarction,14.0,0.0,-11.0,-14.0
+ITGA2,3.0,0.0,Thrombocytopenia,14.0,0.0,-3.0,-14.0
+ITGA2B,6.0,1.0,Thrombocytopenia,8.0,1.0,-5.0,-7.0
+ITGA2B,2.0,0.0,Myocardial Infarction,8.0,1.0,-2.0,-7.0
+ITGA4,1.0,0.0,Pneumonia,1.0,0.0,-1.0,-1.0
+ITGAV,1.0,1.0,Pneumonia,1.0,1.0,0.0,0.0
+ITGB3,9.0,6.0,Thrombocytopenia,19.0,14.0,-3.0,-5.0
+ITGB3,6.0,5.0,Hemorrhage,19.0,14.0,-1.0,-5.0
+ITGB3,2.0,2.0,Myocardial Infarction,19.0,14.0,0.0,-5.0
+ITGB3,1.0,1.0,Deep Vein Thrombosis,19.0,14.0,0.0,-5.0
+ITGB3,1.0,0.0,Peripheral Neuropathy,19.0,14.0,-1.0,-5.0
+ITK,1.0,1.0,Thrombocytopenia,1.0,1.0,0.0,0.0
+JAK1,11.0,6.0,Thrombocytopenia,11.0,6.0,-5.0,-5.0
+JAK2,16.0,12.0,Thrombocytopenia,17.0,13.0,-4.0,-4.0
+JAK2,1.0,0.0,Sepsis,17.0,13.0,-1.0,-4.0
+JAK2,0.0,1.0,Myocardial Infarction,17.0,13.0,1.0,-4.0
+JAK3,5.0,5.0,Pneumonia,5.0,5.0,0.0,0.0
+KAT5,1.0,1.0,Sepsis,1.0,1.0,0.0,0.0
+KCNMA1,23.0,0.0,Myocardial Infarction,23.0,0.0,-23.0,-23.0
+KCNQ2,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+KDR,1.0,1.0,Cerebral Infarction,1.0,1.0,0.0,0.0
+KIT,0.0,2.0,Myocardial Infarction,0.0,2.0,2.0,2.0
+KL,0.0,2.0,Myocardial Infarction,0.0,3.0,2.0,3.0
+KL,0.0,1.0,Hyperlipidemia,0.0,3.0,1.0,3.0
+KNG1,60.0,0.0,Pneumonia,172.0,113.0,-60.0,-59.0
+KNG1,69.0,70.0,Myocardial Infarction,172.0,113.0,1.0,-59.0
+KNG1,27.0,26.0,Sepsis,172.0,113.0,-1.0,-59.0
+KNG1,16.0,17.0,Edema,172.0,113.0,1.0,-59.0
+KRAS,4.0,4.0,Pancreatitis,5.0,4.0,0.0,-1.0
+KRAS,1.0,0.0,Peripheral Neuropathy,5.0,4.0,-1.0,-1.0
+KRT16,12.0,23.0,Myocardial Infarction,12.0,23.0,11.0,11.0
+KRT8,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+LDLR,19.0,0.0,Myocardial Infarction,24.0,0.0,-19.0,-24.0
+LDLR,1.0,0.0,Cerebral Infarction,24.0,0.0,-1.0,-24.0
+LDLR,4.0,0.0,Hyperlipidemia,24.0,0.0,-4.0,-24.0
+LDLRAP1,4.0,4.0,Hyperlipidemia,23.0,20.0,0.0,-3.0
+LDLRAP1,19.0,16.0,Myocardial Infarction,23.0,20.0,-3.0,-3.0
+LIG4,1.0,0.0,Thrombocytopenia,3.0,0.0,-1.0,-3.0
+LIG4,1.0,0.0,Edema,3.0,0.0,-1.0,-3.0
+LIG4,1.0,0.0,Sepsis,3.0,0.0,-1.0,-3.0
+LPAR1,60.0,4.0,Pneumonia,60.0,4.0,-56.0,-56.0
+LPAR2,60.0,4.0,Pneumonia,60.0,4.0,-56.0,-56.0
+LRP1,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+LRP2,1.0,1.0,Proteinuria,5.0,1.0,0.0,-4.0
+LRP2,4.0,0.0,Hyperlipidemia,5.0,1.0,-4.0,-4.0
+LTA,1.0,0.0,Pneumonia,7.0,4.0,-1.0,-3.0
+LTA,1.0,1.0,Sepsis,7.0,4.0,0.0,-3.0
+LTA,2.0,0.0,Gastric ulcer,7.0,4.0,-2.0,-3.0
+LTA,2.0,2.0,Myocardial Infarction,7.0,4.0,0.0,-3.0
+LTA,1.0,1.0,Pancreatitis,7.0,4.0,0.0,-3.0
+LTA4H,1.0,0.0,Edema,2.0,1.0,-1.0,-1.0
+LTA4H,1.0,1.0,Myocardial Infarction,2.0,1.0,0.0,-1.0
+LTB,0.0,2.0,Myocardial Infarction,0.0,2.0,2.0,2.0
+LTB4R,11.0,0.0,Sepsis,46.0,0.0,-11.0,-46.0
+LTB4R,35.0,0.0,Pneumonia,46.0,0.0,-35.0,-46.0
+LY96,0.0,1.0,Pulmonary Edema,0.0,2.0,1.0,2.0
+LY96,0.0,1.0,Sepsis,0.0,2.0,1.0,2.0
+MAOA,1.0,0.0,Tardive Dyskinesia,1.0,0.0,-1.0,-1.0
+MAOB,1.0,0.0,Tardive Dyskinesia,1.0,0.0,-1.0,-1.0
+MAP2K1,2.0,0.0,Thrombocytopenia,2.0,0.0,-2.0,-2.0
+MAP3K7,0.0,3.0,Myocardial Infarction,0.0,3.0,3.0,3.0
+MAP3K8,0.0,1.0,Sepsis,0.0,1.0,1.0,1.0
+MAPK1,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+MAPK3,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+MET,1.0,2.0,Myocardial Infarction,8.0,9.0,1.0,1.0
+MET,3.0,3.0,Gastric ulcer,8.0,9.0,0.0,1.0
+MET,4.0,4.0,Pancreatitis,8.0,9.0,0.0,1.0
+MMP1,1.0,0.0,Myocardial Infarction,2.0,0.0,-1.0,-2.0
+MMP1,1.0,0.0,Gastric ulcer,2.0,0.0,-1.0,-2.0
+MMP14,1.0,0.0,Myocardial Infarction,1.0,0.0,-1.0,-1.0
+MMP2,1.0,1.0,Gastric ulcer,2.0,2.0,0.0,0.0
+MMP2,1.0,1.0,Myocardial Infarction,2.0,2.0,0.0,0.0
+MMP9,1.0,0.0,Myocardial Infarction,3.0,0.0,-1.0,-3.0
+MMP9,1.0,0.0,Gastric ulcer,3.0,0.0,-1.0,-3.0
+MMP9,1.0,0.0,Edema,3.0,0.0,-1.0,-3.0
+MPO,2.0,0.0,Sepsis,6.0,0.0,-2.0,-6.0
+MPO,1.0,0.0,Pneumonia,6.0,0.0,-1.0,-6.0
+MPO,2.0,0.0,Myocardial Infarction,6.0,0.0,-2.0,-6.0
+MPO,1.0,0.0,Pancreatitis,6.0,0.0,-1.0,-6.0
+MTNR1A,20.0,0.0,Tardive Dyskinesia,20.0,0.0,-20.0,-20.0
+MTNR1B,20.0,0.0,Tardive Dyskinesia,20.0,0.0,-20.0,-20.0
+MTOR,0.0,1.0,Thrombocytopenia,0.0,2.0,1.0,2.0
+MTOR,0.0,1.0,Pneumonia,0.0,2.0,1.0,2.0
+MYD88,0.0,1.0,Sepsis,3.0,2.0,1.0,-1.0
+MYD88,1.0,0.0,Pneumonia,3.0,2.0,-1.0,-1.0
+MYD88,2.0,1.0,Pancreatitis,3.0,2.0,-1.0,-1.0
+MYLK,6.0,0.0,Pneumonia,6.0,0.0,-6.0,-6.0
+NBN,1.0,1.0,Thrombocytopenia,1.0,1.0,0.0,0.0
+NCAM1,0.0,3.0,Thrombocytopenia,0.0,4.0,3.0,4.0
+NCAM1,0.0,1.0,Myocardial Infarction,0.0,4.0,1.0,4.0
+NCK1,2.0,2.0,Proteinuria,2.0,2.0,0.0,0.0
+NCK2,2.0,2.0,Proteinuria,2.0,2.0,0.0,0.0
+NCOA3,12.0,11.0,Pancreatitis,12.0,11.0,-1.0,-1.0
+NDUFAF1,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFAF2,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFAF3,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFAF4,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFAF5,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFS1,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFS2,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFS3,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFS4,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFS6,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFV1,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NDUFV2,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+NEFL,1.0,0.0,Peripheral Neuropathy,1.0,0.0,-1.0,-1.0
+NFKB1,1.0,1.0,Pulmonary Edema,3.0,6.0,0.0,3.0
+NFKB1,1.0,1.0,Sepsis,3.0,6.0,0.0,3.0
+NFKB1,0.0,1.0,Myocardial Infarction,3.0,6.0,1.0,3.0
+NFKB1,0.0,2.0,Gastric ulcer,3.0,6.0,2.0,3.0
+NFKB1,1.0,1.0,Pneumonia,3.0,6.0,0.0,3.0
+NFKB2,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+NFKBIA,0.0,1.0,Myocardial Infarction,2.0,2.0,1.0,0.0
+NFKBIA,1.0,0.0,Sepsis,2.0,2.0,-1.0,0.0
+NFKBIA,1.0,1.0,Pneumonia,2.0,2.0,0.0,0.0
+NGF,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+NHEJ1,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+NLRC4,16.0,0.0,Pneumonia,16.0,0.0,-16.0,-16.0
+NOD1,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+NOD2,1.0,0.0,Pancreatitis,2.0,0.0,-1.0,-2.0
+NOD2,1.0,0.0,Sepsis,2.0,0.0,-1.0,-2.0
+NOS2,0.0,1.0,Pneumonia,2.0,3.0,1.0,1.0
+NOS2,1.0,1.0,Myocardial Infarction,2.0,3.0,0.0,1.0
+NOS2,1.0,1.0,Sepsis,2.0,3.0,0.0,1.0
+NPHS1,3.0,0.0,Proteinuria,18.0,0.0,-3.0,-18.0
+NPHS1,11.0,0.0,Hyperlipidemia,18.0,0.0,-11.0,-18.0
+NPHS1,4.0,0.0,Edema,18.0,0.0,-4.0,-18.0
+NPW,60.0,0.0,Pneumonia,60.0,0.0,-60.0,-60.0
+NPY,8.0,0.0,Hyperlipidemia,59.0,54.0,-8.0,-5.0
+NPY,1.0,1.0,Cerebral Infarction,59.0,54.0,0.0,-5.0
+NPY,50.0,53.0,Myocardial Infarction,59.0,54.0,3.0,-5.0
+NR1I2,1.0,2.0,Myocardial Infarction,1.0,7.0,1.0,6.0
+NR1I2,0.0,2.0,Hyperlipidemia,1.0,7.0,2.0,6.0
+NR1I2,0.0,1.0,Pneumonia,1.0,7.0,1.0,6.0
+NR1I2,0.0,1.0,Thrombocytopenia,1.0,7.0,1.0,6.0
+NR1I2,0.0,1.0,Sepsis,1.0,7.0,1.0,6.0
+NR3C1,1.0,0.0,Myocardial Infarction,3.0,0.0,-1.0,-3.0
+NR3C1,1.0,0.0,Pneumonia,3.0,0.0,-1.0,-3.0
+NR3C1,1.0,0.0,Sepsis,3.0,0.0,-1.0,-3.0
+NRAS,13.0,11.0,Thrombocytopenia,14.0,11.0,-2.0,-3.0
+NRAS,1.0,0.0,Edema,14.0,11.0,-1.0,-3.0
+NRG1,3.0,3.0,Gastric ulcer,8.0,9.0,0.0,1.0
+NRG1,2.0,3.0,Myocardial Infarction,8.0,9.0,1.0,1.0
+NRG1,3.0,3.0,Pulmonary Edema,8.0,9.0,0.0,1.0
+NTRK2,1.0,1.0,Myocardial Infarction,1.0,1.0,0.0,0.0
+NTS,9.0,7.0,Sepsis,9.0,7.0,-2.0,-2.0
+OCRL,4.0,4.0,Thrombocytopenia,14.0,5.0,0.0,-9.0
+OCRL,9.0,0.0,Edema,14.0,5.0,-9.0,-9.0
+OCRL,1.0,1.0,Proteinuria,14.0,5.0,0.0,-9.0
+OPRD1,50.0,12.0,Myocardial Infarction,50.0,12.0,-38.0,-38.0
+OPRK1,51.0,55.0,Myocardial Infarction,51.0,55.0,4.0,4.0
+OXT,14.0,15.0,Edema,32.0,32.0,1.0,0.0
+OXT,18.0,17.0,Gastric ulcer,32.0,32.0,-1.0,0.0
+OXTR,18.0,0.0,Gastric ulcer,18.0,0.0,-18.0,-18.0
+P2RY1,11.0,0.0,Sepsis,11.0,0.0,-11.0,-11.0
+P2RY11,52.0,0.0,Myocardial Infarction,52.0,0.0,-52.0,-52.0
+P2RY12,51.0,3.0,Myocardial Infarction,53.0,6.0,-48.0,-47.0
+P2RY12,2.0,3.0,Hemorrhage,53.0,6.0,1.0,-47.0
+P2RY2,11.0,0.0,Sepsis,60.0,47.0,-11.0,-13.0
+P2RY2,1.0,1.0,Cerebral Infarction,60.0,47.0,0.0,-13.0
+P2RY2,48.0,46.0,Myocardial Infarction,60.0,47.0,-2.0,-13.0
+PAK2,2.0,2.0,Proteinuria,2.0,2.0,0.0,0.0
+PALB2,4.0,4.0,Thrombocytopenia,4.0,4.0,0.0,0.0
+PARP1,0.0,1.0,Sepsis,0.0,1.0,1.0,1.0
+PCCA,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+PCCB,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+PDE4B,5.0,0.0,Tardive Dyskinesia,5.0,0.0,-5.0,-5.0
+PDGFA,3.0,2.0,Gastric ulcer,9.0,7.0,-1.0,-2.0
+PDGFA,4.0,3.0,Pancreatitis,9.0,7.0,-1.0,-2.0
+PDGFA,2.0,2.0,Myocardial Infarction,9.0,7.0,0.0,-2.0
+PDGFB,14.0,13.0,Thrombocytopenia,18.0,13.0,-1.0,-5.0
+PDGFB,4.0,0.0,Pancreatitis,18.0,13.0,-4.0,-5.0
+PDGFRA,3.0,0.0,Gastric ulcer,3.0,12.0,-3.0,9.0
+PDGFRA,0.0,12.0,Thrombocytopenia,3.0,12.0,12.0,9.0
+PDGFRB,3.0,0.0,Gastric ulcer,17.0,12.0,-3.0,-5.0
+PDGFRB,14.0,12.0,Thrombocytopenia,17.0,12.0,-2.0,-5.0
+PECAM1,4.0,0.0,Thrombocytopenia,4.0,0.0,-4.0,-4.0
+PF4,60.0,58.0,Pneumonia,61.0,59.0,-2.0,-2.0
+PF4,1.0,1.0,Thrombocytopenia,61.0,59.0,0.0,-2.0
+PIK3CA,0.0,3.0,Pneumonia,6.0,9.0,3.0,3.0
+PIK3CA,1.0,0.0,Peripheral Neuropathy,6.0,9.0,-1.0,3.0
+PIK3CA,1.0,1.0,Cerebral Infarction,6.0,9.0,0.0,3.0
+PIK3CA,2.0,2.0,Sepsis,6.0,9.0,0.0,3.0
+PIK3CA,2.0,3.0,Myocardial Infarction,6.0,9.0,1.0,3.0
+PIK3CB,2.0,1.0,Sepsis,6.0,7.0,-1.0,1.0
+PIK3CB,0.0,2.0,Pneumonia,6.0,7.0,2.0,1.0
+PIK3CB,3.0,3.0,Myocardial Infarction,6.0,7.0,0.0,1.0
+PIK3CB,1.0,1.0,Cerebral Infarction,6.0,7.0,0.0,1.0
+PIK3CD,0.0,1.0,Myocardial Infarction,2.0,3.0,1.0,1.0
+PIK3CD,0.0,1.0,Pneumonia,2.0,3.0,1.0,1.0
+PIK3CD,2.0,1.0,Sepsis,2.0,3.0,-1.0,1.0
+PIK3R1,3.0,0.0,Sepsis,3.0,0.0,-3.0,-3.0
+PLA2G1B,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+PLA2G4A,1.0,1.0,Pneumonia,1.0,1.0,0.0,0.0
+PLAT,1.0,0.0,Gastric ulcer,15.0,14.0,-1.0,-1.0
+PLAT,2.0,2.0,Myocardial Infarction,15.0,14.0,0.0,-1.0
+PLAT,2.0,2.0,Deep Vein Thrombosis,15.0,14.0,0.0,-1.0
+PLAT,2.0,2.0,Sepsis,15.0,14.0,0.0,-1.0
+PLAT,3.0,3.0,Cerebral Infarction,15.0,14.0,0.0,-1.0
+PLAT,1.0,1.0,Pneumonia,15.0,14.0,0.0,-1.0
+PLAT,4.0,4.0,Hemorrhage,15.0,14.0,0.0,-1.0
+PLAU,4.0,0.0,Hemorrhage,10.0,0.0,-4.0,-10.0
+PLAU,2.0,0.0,Myocardial Infarction,10.0,0.0,-2.0,-10.0
+PLAU,1.0,0.0,Pneumonia,10.0,0.0,-1.0,-10.0
+PLAU,3.0,0.0,Cerebral Infarction,10.0,0.0,-3.0,-10.0
+PLAUR,1.0,1.0,Pancreatitis,3.0,4.0,0.0,1.0
+PLAUR,0.0,1.0,Sepsis,3.0,4.0,1.0,1.0
+PLAUR,2.0,2.0,Myocardial Infarction,3.0,4.0,0.0,1.0
+PLG,2.0,2.0,Deep Vein Thrombosis,10.0,10.0,0.0,0.0
+PLG,3.0,3.0,Cerebral Infarction,10.0,10.0,0.0,0.0
+PLG,2.0,2.0,Myocardial Infarction,10.0,10.0,0.0,0.0
+PLG,1.0,1.0,Pneumonia,10.0,10.0,0.0,0.0
+PLG,2.0,2.0,Sepsis,10.0,10.0,0.0,0.0
+PNOC,24.0,23.0,Sepsis,24.0,23.0,-1.0,-1.0
+POMC,60.0,60.0,Pneumonia,105.0,99.0,0.0,-6.0
+POMC,27.0,24.0,Sepsis,105.0,99.0,-3.0,-6.0
+POMC,0.0,1.0,Proteinuria,105.0,99.0,1.0,-6.0
+POMC,2.0,3.0,Hemorrhage,105.0,99.0,1.0,-6.0
+POMC,16.0,11.0,Edema,105.0,99.0,-5.0,-6.0
+PPARA,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+PPARG,0.0,1.0,Myocardial Infarction,2.0,4.0,1.0,2.0
+PPARG,1.0,1.0,Pneumonia,2.0,4.0,0.0,2.0
+PPARG,1.0,1.0,Sepsis,2.0,4.0,0.0,2.0
+PPARG,0.0,1.0,Pancreatitis,2.0,4.0,1.0,2.0
+PPBP,0.0,17.0,Hyperlipidemia,0.0,17.0,17.0,17.0
+PPY,11.0,11.0,Pancreatitis,11.0,11.0,0.0,0.0
+PSPN,3.0,0.0,Pancreatitis,4.0,1.0,-3.0,-3.0
+PSPN,1.0,1.0,Cerebral Infarction,4.0,1.0,0.0,-3.0
+PTAFR,35.0,0.0,Pneumonia,35.0,0.0,-35.0,-35.0
+PTGDR,1.0,0.0,Cerebral Infarction,1.0,0.0,-1.0,-1.0
+PTGDR2,60.0,3.0,Pneumonia,60.0,3.0,-57.0,-57.0
+PTGER1,1.0,0.0,Cerebral Infarction,1.0,0.0,-1.0,-1.0
+PTGER2,28.0,0.0,Myocardial Infarction,28.0,0.0,-28.0,-28.0
+PTGER3,10.0,0.0,Edema,10.0,0.0,-10.0,-10.0
+PTGS1,2.0,2.0,Pneumonia,14.0,14.0,0.0,0.0
+PTGS1,9.0,9.0,Myocardial Infarction,14.0,14.0,0.0,0.0
+PTGS1,3.0,3.0,Gastric ulcer,14.0,14.0,0.0,0.0
+PTGS2,3.0,3.0,Pneumonia,20.0,20.0,0.0,0.0
+PTGS2,2.0,2.0,Sepsis,20.0,20.0,0.0,0.0
+PTGS2,1.0,1.0,Pulmonary Edema,20.0,20.0,0.0,0.0
+PTGS2,5.0,5.0,Pancreatitis,20.0,20.0,0.0,0.0
+PTGS2,1.0,1.0,Proteinuria,20.0,20.0,0.0,0.0
+PTGS2,2.0,2.0,Gastric ulcer,20.0,20.0,0.0,0.0
+PTGS2,5.0,5.0,Myocardial Infarction,20.0,20.0,0.0,0.0
+PTGS2,1.0,1.0,Edema,20.0,20.0,0.0,0.0
+PTH,4.0,4.0,Hyperlipidemia,4.0,4.0,0.0,0.0
+PTH1R,16.0,0.0,Edema,16.0,0.0,-16.0,-16.0
+PTHLH,9.0,9.0,Pancreatitis,9.0,25.0,0.0,16.0
+PTHLH,0.0,16.0,Edema,9.0,25.0,16.0,16.0
+PTK2B,1.0,1.0,Peripheral Neuropathy,1.0,1.0,0.0,0.0
+PTPN11,17.0,0.0,Thrombocytopenia,20.0,1.0,-17.0,-19.0
+PTPN11,1.0,0.0,Edema,20.0,1.0,-1.0,-19.0
+PTPN11,2.0,0.0,Myocardial Infarction,20.0,1.0,-2.0,-19.0
+PTPN11,0.0,1.0,Hemorrhage,20.0,1.0,1.0,-19.0
+PTPN22,1.0,0.0,Pancreatitis,4.0,0.0,-1.0,-4.0
+PTPN22,3.0,0.0,Thrombocytopenia,4.0,0.0,-3.0,-4.0
+PTPN6,0.0,1.0,Pneumonia,0.0,1.0,1.0,1.0
+PTPRA,0.0,1.0,Hyperlipidemia,0.0,2.0,1.0,2.0
+PTPRA,0.0,1.0,Myocardial Infarction,0.0,2.0,1.0,2.0
+RAD51,1.0,1.0,Thrombocytopenia,1.0,1.0,0.0,0.0
+RAD51C,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+RAF1,1.0,0.0,Myocardial Infarction,1.0,0.0,-1.0,-1.0
+RAMP1,28.0,26.0,Myocardial Infarction,29.0,27.0,-2.0,-2.0
+RAMP1,1.0,1.0,Cerebral Infarction,29.0,27.0,0.0,-2.0
+RAMP2,1.0,1.0,Cerebral Infarction,1.0,1.0,0.0,0.0
+RAP1B,1.0,1.0,Pneumonia,1.0,1.0,0.0,0.0
+RASGRP1,0.0,2.0,Thrombocytopenia,0.0,2.0,2.0,2.0
+RELA,1.0,1.0,Sepsis,1.0,1.0,0.0,0.0
+REN,1.0,0.0,Proteinuria,3.0,0.0,-1.0,-3.0
+REN,1.0,0.0,Myocardial Infarction,3.0,0.0,-1.0,-3.0
+REN,1.0,0.0,Gastric ulcer,3.0,0.0,-1.0,-3.0
+RET,1.0,1.0,Proteinuria,2.0,2.0,0.0,0.0
+RET,1.0,1.0,Peripheral Neuropathy,2.0,2.0,0.0,0.0
+RFC2,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+RHOA,0.0,1.0,Myocardial Infarction,2.0,1.0,1.0,-1.0
+RHOA,2.0,0.0,Proteinuria,2.0,1.0,-2.0,-1.0
+RIPK1,3.0,5.0,Myocardial Infarction,3.0,5.0,2.0,2.0
+RIT1,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+RLN2,28.0,26.0,Myocardial Infarction,28.0,26.0,-2.0,-2.0
+ROCK1,1.0,0.0,Pneumonia,2.0,0.0,-1.0,-2.0
+ROCK1,1.0,0.0,Pulmonary Edema,2.0,0.0,-1.0,-2.0
+RYR1,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+S1PR1,0.0,3.0,Pneumonia,0.0,3.0,3.0,3.0
+S1PR3,24.0,2.0,Sepsis,24.0,2.0,-22.0,-22.0
+SAA1,8.0,9.0,Hyperlipidemia,35.0,33.0,1.0,-2.0
+SAA1,27.0,23.0,Sepsis,35.0,33.0,-4.0,-2.0
+SAA1,0.0,1.0,Proteinuria,35.0,33.0,1.0,-2.0
+SCARB2,1.0,1.0,Proteinuria,14.0,5.0,0.0,-9.0
+SCARB2,9.0,0.0,Edema,14.0,5.0,-9.0,-9.0
+SCARB2,4.0,4.0,Thrombocytopenia,14.0,5.0,0.0,-9.0
+SCN5A,23.0,1.0,Myocardial Infarction,23.0,1.0,-22.0,-22.0
+SCT,9.0,9.0,Pancreatitis,9.0,9.0,0.0,0.0
+SELP,1.0,0.0,Myocardial Infarction,2.0,0.0,-1.0,-2.0
+SELP,1.0,0.0,Hyperlipidemia,2.0,0.0,-1.0,-2.0
+SERPINB2,1.0,0.0,Myocardial Infarction,1.0,0.0,-1.0,-1.0
+SERPINC1,2.0,2.0,Myocardial Infarction,2.0,4.0,0.0,2.0
+SERPINC1,0.0,2.0,Hyperlipidemia,2.0,4.0,2.0,2.0
+SERPINE1,2.0,2.0,Myocardial Infarction,8.0,7.0,0.0,-1.0
+SERPINE1,1.0,0.0,Pancreatitis,8.0,7.0,-1.0,-1.0
+SERPINE1,1.0,1.0,Deep Vein Thrombosis,8.0,7.0,0.0,-1.0
+SERPINE1,1.0,1.0,Sepsis,8.0,7.0,0.0,-1.0
+SERPINE1,3.0,3.0,Cerebral Infarction,8.0,7.0,0.0,-1.0
+SERPING1,23.0,0.0,Myocardial Infarction,44.0,0.0,-23.0,-44.0
+SERPING1,7.0,0.0,Sepsis,44.0,0.0,-7.0,-44.0
+SERPING1,14.0,0.0,Edema,44.0,0.0,-14.0,-44.0
+SF3B1,0.0,1.0,Thrombocytopenia,0.0,1.0,1.0,1.0
+SHANK3,1.0,0.0,Peripheral Neuropathy,1.0,0.0,-1.0,-1.0
+SHC1,3.0,4.0,Hyperlipidemia,3.0,4.0,1.0,1.0
+SLC10A1,1.0,0.0,Hyperlipidemia,1.0,0.0,-1.0,-1.0
+SLC18A2,0.0,1.0,Tardive Dyskinesia,0.0,1.0,1.0,1.0
+SLC22A1,0.0,2.0,Thrombocytopenia,0.0,2.0,2.0,2.0
+SLC25A13,14.0,0.0,Edema,40.0,0.0,-14.0,-40.0
+SLC25A13,12.0,0.0,Pancreatitis,40.0,0.0,-12.0,-40.0
+SLC25A13,14.0,0.0,Hyperlipidemia,40.0,0.0,-14.0,-40.0
+SLC6A3,3.0,4.0,Tardive Dyskinesia,6.0,8.0,1.0,2.0
+SLC6A3,3.0,4.0,Delirium,6.0,8.0,1.0,2.0
+SLC6A4,12.0,14.0,Myocardial Infarction,19.0,14.0,2.0,-5.0
+SLC6A4,7.0,0.0,Tardive Dyskinesia,19.0,14.0,-7.0,-5.0
+SLCO1B1,2.0,2.0,Myocardial Infarction,4.0,5.0,0.0,1.0
+SLCO1B1,2.0,3.0,Hyperlipidemia,4.0,5.0,1.0,1.0
+SLCO1B3,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+SOCS1,1.0,0.0,Sepsis,1.0,0.0,-1.0,-1.0
+SOCS3,1.0,0.0,Sepsis,2.0,0.0,-1.0,-2.0
+SOCS3,1.0,0.0,Pneumonia,2.0,0.0,-1.0,-2.0
+SOD1,1.0,1.0,Pancreatitis,1.0,1.0,0.0,0.0
+SOS1,1.0,0.0,Cerebral Infarction,8.0,0.0,-1.0,-8.0
+SOS1,1.0,0.0,Edema,8.0,0.0,-1.0,-8.0
+SOS1,3.0,0.0,Gastric ulcer,8.0,0.0,-3.0,-8.0
+SOS1,3.0,0.0,Myocardial Infarction,8.0,0.0,-3.0,-8.0
+SPTBN4,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+SPTBN5,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+SRC,15.0,10.0,Thrombocytopenia,15.0,10.0,-5.0,-5.0
+SRSF2,0.0,1.0,Thrombocytopenia,0.0,1.0,1.0,1.0
+SST,11.0,11.0,Pancreatitis,49.0,49.0,0.0,0.0
+SST,14.0,15.0,Gastric ulcer,49.0,49.0,1.0,0.0
+SST,24.0,23.0,Sepsis,49.0,49.0,-1.0,0.0
+SSTR1,0.0,24.0,Sepsis,0.0,24.0,24.0,24.0
+STAT1,10.0,2.0,Thrombocytopenia,11.0,2.0,-8.0,-9.0
+STAT1,1.0,0.0,Sepsis,11.0,2.0,-1.0,-9.0
+STAT2,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+STAT3,1.0,1.0,Sepsis,2.0,2.0,0.0,0.0
+STAT3,1.0,1.0,Pneumonia,2.0,2.0,0.0,0.0
+SYK,3.0,3.0,Pneumonia,3.0,3.0,0.0,0.0
+SYT1,6.0,5.0,Sepsis,6.0,5.0,-1.0,-1.0
+TAB2,0.0,3.0,Myocardial Infarction,0.0,3.0,3.0,3.0
+TAB3,1.0,2.0,Sepsis,1.0,2.0,1.0,1.0
+TAC1,34.0,0.0,Pneumonia,48.0,15.0,-34.0,-33.0
+TAC1,14.0,15.0,Edema,48.0,15.0,1.0,-33.0
+TACR1,8.0,0.0,Pancreatitis,8.0,0.0,-8.0,-8.0
+TAS2R50,51.0,55.0,Myocardial Infarction,51.0,55.0,4.0,4.0
+TBXA2R,1.0,1.0,Cerebral Infarction,21.0,19.0,0.0,-2.0
+TBXA2R,20.0,18.0,Myocardial Infarction,21.0,19.0,-2.0,-2.0
+TEK,1.0,1.0,Myocardial Infarction,2.0,2.0,0.0,0.0
+TEK,1.0,0.0,Gastric ulcer,2.0,2.0,-1.0,0.0
+TEK,0.0,1.0,Pneumonia,2.0,2.0,1.0,0.0
+TF,7.0,7.0,Pancreatitis,26.0,7.0,0.0,-19.0
+TF,19.0,0.0,Myocardial Infarction,26.0,7.0,-19.0,-19.0
+TFRC,4.0,0.0,Thrombocytopenia,10.0,0.0,-4.0,-10.0
+TFRC,6.0,0.0,Sepsis,10.0,0.0,-6.0,-10.0
+TICAM1,0.0,1.0,Sepsis,0.0,1.0,1.0,1.0
+TIMP2,1.0,0.0,Myocardial Infarction,1.0,0.0,-1.0,-1.0
+TLR3,1.0,1.0,Pancreatitis,1.0,2.0,0.0,1.0
+TLR3,0.0,1.0,Sepsis,1.0,2.0,1.0,1.0
+TLR4,1.0,2.0,Myocardial Infarction,2.0,3.0,1.0,1.0
+TLR4,1.0,1.0,Pancreatitis,2.0,3.0,0.0,1.0
+TMEM126B,1.0,0.0,Edema,1.0,0.0,-1.0,-1.0
+TNF,2.0,2.0,Myocardial Infarction,10.0,10.0,0.0,0.0
+TNF,1.0,1.0,Sepsis,10.0,10.0,0.0,0.0
+TNF,1.0,1.0,Pulmonary Edema,10.0,10.0,0.0,0.0
+TNF,1.0,1.0,Pneumonia,10.0,10.0,0.0,0.0
+TNF,2.0,2.0,Gastric ulcer,10.0,10.0,0.0,0.0
+TNF,1.0,1.0,Pancreatitis,10.0,10.0,0.0,0.0
+TNF,2.0,2.0,Edema,10.0,10.0,0.0,0.0
+TNFRSF1A,1.0,0.0,Pneumonia,6.0,0.0,-1.0,-6.0
+TNFRSF1A,2.0,0.0,Edema,6.0,0.0,-2.0,-6.0
+TNFRSF1A,1.0,0.0,Sepsis,6.0,0.0,-1.0,-6.0
+TNFRSF1A,2.0,0.0,Myocardial Infarction,6.0,0.0,-2.0,-6.0
+TP53,0.0,1.0,Thrombocytopenia,17.0,3.0,1.0,-14.0
+TP53,6.0,1.0,Pancreatitis,17.0,3.0,-5.0,-14.0
+TP53,5.0,0.0,Myocardial Infarction,17.0,3.0,-5.0,-14.0
+TP53,3.0,0.0,Pneumonia,17.0,3.0,-3.0,-14.0
+TP53,3.0,1.0,Gastric ulcer,17.0,3.0,-2.0,-14.0
+TPMT,0.0,1.0,Thrombocytopenia,0.0,1.0,1.0,1.0
+TRAF6,1.0,2.0,Sepsis,1.0,2.0,1.0,1.0
+TRH,4.0,5.0,Hyperlipidemia,4.0,5.0,1.0,1.0
+TRIP10,15.0,0.0,Pneumonia,15.0,0.0,-15.0,-15.0
+TSHR,0.0,26.0,Myocardial Infarction,0.0,26.0,26.0,26.0
+TTN,2.0,0.0,Sepsis,2.0,23.0,-2.0,21.0
+TTN,0.0,23.0,Myocardial Infarction,2.0,23.0,23.0,21.0
+TTR,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+TXNRD2,0.0,1.0,Myocardial Infarction,0.0,1.0,1.0,1.0
+TYK2,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+UGT1A1,1.0,0.0,Sepsis,6.0,0.0,-1.0,-6.0
+UGT1A1,5.0,0.0,Myocardial Infarction,6.0,0.0,-5.0,-6.0
+UTS2,47.0,46.0,Myocardial Infarction,47.0,46.0,-1.0,-1.0
+UTS2B,0.0,46.0,Myocardial Infarction,0.0,46.0,46.0,46.0
+UTS2R,48.0,46.0,Myocardial Infarction,48.0,46.0,-2.0,-2.0
+VAMP8,19.0,16.0,Myocardial Infarction,19.0,16.0,-3.0,-3.0
+VEGFA,2.0,2.0,Pancreatitis,5.0,5.0,0.0,0.0
+VEGFA,1.0,1.0,Hemorrhage,5.0,5.0,0.0,0.0
+VEGFA,1.0,1.0,Edema,5.0,5.0,0.0,0.0
+VEGFA,1.0,1.0,Proteinuria,5.0,5.0,0.0,0.0
+VIM,1.0,0.0,Pneumonia,1.0,0.0,-1.0,-1.0
+VIP,16.0,16.0,Edema,44.0,42.0,0.0,-2.0
+VIP,28.0,26.0,Pneumonia,44.0,42.0,-2.0,-2.0
+VWF,5.0,5.0,Hemorrhage,18.0,19.0,0.0,1.0
+VWF,2.0,2.0,Myocardial Infarction,18.0,19.0,0.0,1.0
+VWF,1.0,1.0,Deep Vein Thrombosis,18.0,19.0,0.0,1.0
+VWF,1.0,1.0,Sepsis,18.0,19.0,0.0,1.0
+VWF,0.0,1.0,Pulmonary Edema,18.0,19.0,1.0,1.0
+VWF,3.0,3.0,Cerebral Infarction,18.0,19.0,0.0,1.0
+VWF,6.0,6.0,Thrombocytopenia,18.0,19.0,0.0,1.0
+WNT5A,0.0,16.0,Myocardial Infarction,6.0,21.0,16.0,15.0
+WNT5A,6.0,5.0,Sepsis,6.0,21.0,-1.0,15.0
+XDH,2.0,2.0,Pancreatitis,3.0,3.0,0.0,0.0
+XDH,1.0,1.0,Thrombocytopenia,3.0,3.0,0.0,0.0
+XRCC2,1.0,0.0,Thrombocytopenia,1.0,0.0,-1.0,-1.0
+ZAP70,1.0,1.0,Pneumonia,1.0,1.0,0.0,0.0
