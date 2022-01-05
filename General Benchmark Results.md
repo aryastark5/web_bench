@@ -3,55 +3,51 @@ layout: page
 title: General Benchmark Results
 ---
 
-## General Summary info  
+## General Summary   
 
-Below is a general summary of the results of the 
+Below is a general summary of the results after comparing PathFX Version 1.0 and Version 2.0.
 
 
 ### FDA Drugs Labeled for Adverse Event (FDLAE) File
 
-- Number of Adverse Events listed: 34 \
-- Number of Adverse events with identifiable CUIs: 26 \
-- Number of ingredients (identified Drugs and others): 1970 \
-- Number of Identified DrugBank Drugs: 1759 \
-<br> 
+- Number of Adverse Events listed: 34 
+- Number of Adverse events with identifiable CUIs: 26 
+- Number of ingredients (identified Drugs and others): 1970 
+- Number of Identified DrugBank Drugs: 1759 
 
 Source File: [FDA Drugs Labeled for Adverse Event (FDLAE) File](https://drive.google.com/file/d/1_2a8m1ehTjmnd_b0_dxRmh-Ir7R4NO3Q/view?usp=sharing)
-<br> 
-
+\
+\
 **Table 1. Drug-adverse event reactions extracted from drug labels.** Side effects from drug labels, their associated PathFX synonyms and CUI terms as well as all ingredients and ingredients mapped to DrugBank identifiers are described above 
 
 ![image](display_files/benchmark_general_results/tables/fda_table_adverse_events.png)
 
 Source File: [Drug-adverse event reactions extracted from drug labels](https://drive.google.com/file/d/1vqrlwiJaUjHq8j0J92sLwRIakopeanS1/view?usp=sharing)
-<br> 
-
-
+\
+\
 **Supplement Figure 1. Table of Identified Ingredients** PathFX Version 1 and Version 2 both shared 2054 unique drugs listed in their interaction files
 
 ![image](display_files/benchmark_general_results/tables/fda_table_ingrediants.png)
 
 Source File: [Table of Identified Ingredients](https://drive.google.com/file/d/1fydAgRB_Vll63KYPROtJsK7peQdZadMp/view?usp=sharing)
-
-
-
-
+\
+\
+\
 
 ### PathFX Version 1 and Version 2 (PathFX Benchmark) DataFrame
 
-- Number of (CUI, Drug) Records: 1881 \
-- Number of unique CUIs: 5583 \
-- Number of unique Phenotypes in PathFX Version 1: 7373 \
-- Number of unique Phenotypes in PathFX Version 2: 7515 \
-- Number of unique DrugBank IDs: 1738 \
-- Number of unique Drugs: 1743 \
-
-- Number of (CUI, Drug) Records Associated in PathFX Version 1: 403347 \
-- Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554 \
-- Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183 \
-
-
-
+- Number of (CUI, Drug) Records: 1881 
+- Number of unique CUIs: 5583 
+- Number of unique Phenotypes in PathFX Version 1: 7373 
+- Number of unique Phenotypes in PathFX Version 2: 7515 
+- Number of unique DrugBank IDs: 1738 
+- Number of unique Drugs: 1743 
+\
+- Number of (CUI, Drug) Records Associated in PathFX Version 1: 403347 
+- Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554 
+- Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183 
+\
+\
 Table X. Benchmark DataFrame for PathFX Version 1.0 and 2.
 
 
