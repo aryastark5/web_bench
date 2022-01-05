@@ -3,21 +3,58 @@ layout: page
 title: General Benchmark Results
 ---
 
+## General Summary info  
 
-General Summary info  
+Below is a general summary of the results of the 
 
-Below is a general summary of the differences between PathFX Version 1.0 vs. PathFX Version 2.0.
 
-Drug Targets All Same? - No \
-Number of Drug Target lists where contents are all the same: 27 \
-Number of Drug Associations in Version 1: 355 \
-Number of Drug Associations in Version 2: 355 \
-Number of Drug Associations in Version Both Versions: 0 \
-Number of Unique Drugs: 195 \
-Number of Unique (CUI, Drug) pairs: 355 \
-Number of Unique CUIs: 16 \
-Number of Unique phenotype_v1: 16 \
-Number of Unique phenotype_v2: 16 
+### FDA Drugs Labeled for Adverse Event (FDLAE) File
+
+Number of Adverse Events listed: 34
+Number of Adverse events with identifiable CUIs: 26
+
+Number of ingredients (identified Drugs and others): 1970
+Number of Identified DrugBank Drugs: 1759
+
+
+
+### PathFX Version 1 and Version 2 (PathFX Benchmark) DataFrame
+
+Number of (CUI, Drug) Records: 1881
+Number of unique CUIs: 5583
+Number of unique Phenotypes in PathFX Version 1: 7373
+Number of unique Phenotypes in PathFX Version 2: 7515
+Number of unique DrugBank IDs: 1738
+Number of unique Drugs: 1743
+
+Number of (CUI, Drug) Records Associated in PathFX Version 1: 403347
+Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554
+Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183
+
+
+### Intersection of FDA Drugs Labeled for Adverse Event (FDLAE) File and PathFX Benchmark DataFrame (with intersection of Version 1 and 2 associated records) 
+
+Number of (CUI, Drug) Records: 355
+Number of unique CUIs: 16
+Number of unique Phenotypes in PathFX Version 1: 16
+Number of unique Phenotypes in PathFX Version 2: 16
+Number of unique DrugBank IDs: 195
+Number of unique Drugs: 195
+
+Number of (CUI, Drug) Records Associated in PathFX Version 1: 355
+Number of (CUI, Drug) Records Associated in PathFX Version 2: 355
+Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355
+
+
+
+### Supported Figures 
+
+
+
+
+[test](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/tables/test.html)
+
+
 
 
 **Table Info on Comparing the Distribution of the Difference in -log(Benjamini Hochberg) between PathFX Version 2 and Version 1** 
