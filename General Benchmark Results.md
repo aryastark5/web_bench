@@ -37,7 +37,6 @@ Source File: [Table of Identified Ingredients](https://drive.google.com/file/d/1
 - Number of unique Phenotypes in PathFX Version 2: 7515 
 - Number of unique DrugBank IDs: 1738 
 - Number of unique Drugs: 1743 
-
 - Number of (CUI, Drug) Records Associated in PathFX Version 1: 403347 
 - Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554 
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183 
@@ -56,12 +55,27 @@ Source File: (Please Contact Lab for more information)
 - Number of unique Phenotypes in PathFX Version 2: 16 
 - Number of unique DrugBank IDs: 195 
 - Number of unique Drugs: 195 
-
 - Number of (CUI, Drug) Records Associated in PathFX Version 1: 355 
 - Number of (CUI, Drug) Records Associated in PathFX Version 2: 355 
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355 
 
 ## Benjamini-Hochberg
+
+### Score Size Comparison between PathFX Versions
+
+
+**Table (X).** [Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all (CUI, Drug) records](https://drive.google.com/file/d/17JRBWyppPE6GTo3e0Bl9pHMrkYF_0aUq/view?usp=sharing)
+![image](display_files/benchmark_general_results/tables/bh_inequa_comp_table.png)
+
+**Table (X).** [Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all Adverse Events](https://drive.google.com/file/d/1_nXMsIU88dcggNXY-DHkpTqgI4eptnmk/view?usp=sharing)
+![image](display_files/benchmark_general_results/tables/bh_inequa_adverse_event_comp_table.png)
+
+**Table (X).** [Table (X). Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all Drugs](https://drive.google.com/file/d/11gvSlOychIHc8a1dDoC7LUFHQzVh8kdS/view?usp=sharing)
+![image](display_files/benchmark_general_results/tables/drug_bh_assoc_version_table.png
+
+
+
+
 
 ### Distribution of Values for each PathFX Version
 
@@ -93,18 +107,18 @@ Source File: (Please Contact Lab for more information)
 **Table (X).** [Difference in -Log(Benjamini-Hochberg) Statistic summary for Specific Adverse events between PathFX Versions](https://drive.google.com/file/d/1kI6GIOR0CKC_zsAzELMsvY5Swa9PXqEP/view?usp=sharing)
 ![image](display_files/benchmark_general_results/tables/diff_bh_per_adverse_event_stats_table.png)
 
-
 **Figure (X).** [Distribution of Difference in -Log(Benjamin Hochberg) for each 16 unique adverse events](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/distribution_difference_-log_bh_per_adverse_event.html)
 ![image](display_files/benchmark_general_results/graphs/distribution_difference_-log_bh_per_adverse_event.png)
 
-
-**Figure (X).** [Waterfall plot of Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all (CUI, Drug) records for Pathv1 and PathFXv2](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/log_bh_waterfall_plot.html)
+**Figure (X).** [Waterfall plot of Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all (CUI, Drug) records for Pathv1 and PathFXv2](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/-log_bh_waterfall_plot.html)
 ![image](display_files/benchmark_general_results/graphs/-log_bh_waterfall_plot.png)
 
 **Figure (X).** [Waterfall plot of Mean Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all Phenotypes for Pathv1 and PathFXv2e](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/-log_bh_adverse_event_waterfall_plot.html)
 ![image](display_files/benchmark_general_results/graphs/-log_bh_adverse_event_waterfall_plot.png)
 
 
+**Figure (X).** [Waterfall plot of Mean Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all Drugs for Pathv1 and PathFXv2e](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/-log_bh_drugs_waterfall_plot.png.html)
+![image](display_files/benchmark_general_results/graphs/-log_bh_drugs_waterfall_plot.png.png)
 
 
 
