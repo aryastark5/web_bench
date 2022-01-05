@@ -33,10 +33,11 @@ title: Neighborhood Gene Assessment
 ### Gene Content
 
 
+[Difference in -LogBH vs Unique Version 1 Neighborhood Gene List](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_genes_results/graphs/Difference in -LogBH vs Unique Version 1 Neighborhood Gene List.html)
+![image](display_files/neighborhood_genes_results/tables/Difference in -LogBH vs Unique Version 1 Neighborhood Gene List.png)
 
-
-
-
+[Difference in -LogBH vs Unique Version 2 Neighborhood Gene List](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_genes_results/graphs/Difference in -LogBH vs Unique Version 2 Neighborhood Gene List.html)
+![image](display_files/neighborhood_genes_results/tables/Difference in -LogBH vs Unique Version 2 Neighborhood Gene List.png)
 
 [Difference in Frequncy for Adverse Event Count between PathFX Versions for all Neighborhood Genes](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_genes_results/graphs/Difference in Frequncy for Adverse Event Count between PathFX Versions for all Neighborhood Genes.html)
 ![image](display_files/neighborhood_genes_results/tables/Difference in Frequncy for Adverse Event Count between PathFX Versions for all Neighborhood Genes.png)
