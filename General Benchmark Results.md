@@ -115,9 +115,8 @@ Source File: (Please Contact Lab for more information)
 ![image](display_files/benchmark_general_results/graphs/-log_bh_adverse_event_waterfall_plot.png)
 
 
-**Figure (X).** [Waterfall plot of Mean Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all Drugs for Pathv1 and PathFXv2e](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/-log_bh_drugs_waterfall_plot.png.html)
-![image](display_files/benchmark_general_results/graphs/-log_bh_drugs_waterfall_plot.png.png)
-
+**Figure (X).** [Waterfall plot of Mean Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all Drugs for Pathv1 and PathFXv2e](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/-log_bh_drugs_waterfall_plot.html)
+![image](display_files/benchmark_general_results/graphs/-log_bh_drugs_waterfall_plot.png)
 
 
 
