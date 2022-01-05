@@ -4,6 +4,3 @@
 
 layout: home
 ---
-![image tooltip here](/display_figures/icons/lune.png)
-
-![image tooltip here](display_figures/icons/lune.png)
