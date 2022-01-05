@@ -26,8 +26,7 @@ baseurl: "web_bench" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aryamirpour
 github_username:  aryastark5
-related_image: "display_files/logos/lune.png"
-
+logo: display_files/benchmark_general_results/logos/lune.png
 # Build settings
 theme: minima
 plugins:
