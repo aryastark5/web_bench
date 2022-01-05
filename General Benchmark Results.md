@@ -79,6 +79,19 @@ Source File: (Please Contact Lab for more information)
 - Number of times Version 1 and Version 2 had same -Log(Benjamini-Hochberg) value: 0.0
 \
 
+Table (X): -Log(Benjamini-Hochberg) Statistic summary between PathFX Versions
+[-Log(Benjamini-Hochberg) Statistic summary between PathFX Versions](https://drive.google.com/file/d/1YD09a-ZzR-_VelA_G51VuD4QHvjkwYA5/view?usp=sharing)
+![image](display_files/benchmark_general_results/tables/bh_all_records_stats_table.png)
+\
+
+Table (X): -Log(Benjamini-Hochberg) Statistic summary for Specific Adverse events between PathFX Versions
+[-Log(Benjamini-Hochberg) Statistic summary between PathFX Versions](https://drive.google.com/file/d/1l70kMT6J8m9X1gms1D0dCyvgNoFk-FXt/view?usp=sharing)
+![image](display_files/benchmark_general_results/tables/bh_per_adverse_event_stats_table.png)
+\
+
+
+\
+
 **Figure (X).** [Distribution of -Log(Benjamini-Hochberg) values shown across all (CUI, Drug) records for Pathv1 and PathFXv2](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/distribution_-log_bh_both_ver.html)
 ![image](display_files/benchmark_general_results/graphs/distribution_-log_bh_both_ver.png)
 \
@@ -92,13 +105,9 @@ Source File: (Please Contact Lab for more information)
 ### Difference in in Values between the PathFX Versions
 
 
-Table (X): -Log(Benjamini-Hochberg) Statistic summary between PathFX Versions
-[-Log(Benjamini-Hochberg) Statistic summary between PathFX Versions](https://drive.google.com/file/d/1YD09a-ZzR-_VelA_G51VuD4QHvjkwYA5/view?usp=sharing)
-![image](display_files/benchmark_general_results/tables/bh_all_records_stats_table.png)
 
 
 
-\
 
 
 
