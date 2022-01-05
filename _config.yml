@@ -26,12 +26,11 @@ baseurl: "web_bench" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aryamirpour
 github_username:  aryastark5
-logo: display_files/benchmark_general_results/logos/lune.png
+logo: lune.png
 search: true
 
 # Build settings
-
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+theme: minima
 plugins:
   - jekyll-feed
 
