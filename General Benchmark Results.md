@@ -16,6 +16,9 @@ Number of Adverse events with identifiable CUIs: 26 \
 Number of ingredients (identified Drugs and others): 1970 \
 Number of Identified DrugBank Drugs: 1759 \
 
+
+trtryrtyrtyt
+
 Source File: (FDA Drugs Labeled for Adverse Event (FDLAE) File)(https://drive.google.com/file/d/1_2a8m1ehTjmnd_b0_dxRmh-Ir7R4NO3Q/view?usp=sharing)
 
 
