@@ -9,18 +9,18 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Comparing Results of PathFX Version 1.0 vs. PathFX Version 2.0. All support files are published to the Github Repo." />
 <meta property="og:description" content="Comparing Results of PathFX Version 1.0 vs. PathFX Version 2.0. All support files are published to the Github Repo." />
-<link rel="canonical" href="http://localhost:4000/General%20Benchmark%20Results.html" />
-<meta property="og:url" content="http://localhost:4000/General%20Benchmark%20Results.html" />
+<link rel="canonical" href="http://localhost:4000/web_bench/General%20Benchmark%20Results.html" />
+<meta property="og:url" content="http://localhost:4000/web_bench/General%20Benchmark%20Results.html" />
 <meta property="og:site_name" content="PathFX Benchmark Results" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="General Benchmark Results" />
 <script type="application/ld+json">
-{"headline":"General Benchmark Results","url":"http://localhost:4000/General%20Benchmark%20Results.html","description":"Comparing Results of PathFX Version 1.0 vs. PathFX Version 2.0. All support files are published to the Github Repo.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"headline":"General Benchmark Results","url":"http://localhost:4000/web_bench/General%20Benchmark%20Results.html","description":"Comparing Results of PathFX Version 1.0 vs. PathFX Version 2.0. All support files are published to the Github Repo.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="PathFX Benchmark Results" /></head>
+<link rel="stylesheet" href="/web_bench/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/web_bench/feed.xml" title="PathFX Benchmark Results" /></head>
 <body><header class="site-header" role="banner">
 
-  <div class="wrapper"><a class="site-title" rel="author" href="/">PathFX Benchmark Results</a><nav class="site-nav">
+  <div class="wrapper"><a class="site-title" rel="author" href="/web_bench/">PathFX Benchmark Results</a><nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -30,7 +30,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/Drug%20Taget%20Gene%20Assessment.html">Drug Target Gene Assessment</a><a class="page-link" href="/General%20Benchmark%20Results.html">General Benchmark Results</a><a class="page-link" href="/Interactome%20Gene%20Assessment.html">Interactome Gene Assessment</a><a class="page-link" href="/Neighborood%20Gene%20Assessment.html">Neighborhood Gene Assessment</a><a class="page-link" href="/Numerical%20Attribute%20Assessment.html">Numerical Attrbiutes Assessment</a><a class="page-link" href="/Stacked%20Bar%20Charts.html">Stacked Bar Charts</a><a class="page-link" href="/about/">About</a></div>
+        <div class="trigger"><a class="page-link" href="/web_bench/Drug%20Taget%20Gene%20Assessment.html">Drug Target Gene Assessment</a><a class="page-link" href="/web_bench/General%20Benchmark%20Results.html">General Benchmark Results</a><a class="page-link" href="/web_bench/Interactome%20Gene%20Assessment.html">Interactome Gene Assessment</a><a class="page-link" href="/web_bench/Neighborood%20Gene%20Assessment.html">Neighborhood Gene Assessment</a><a class="page-link" href="/web_bench/Numerical%20Attribute%20Assessment.html">Numerical Attrbiutes Assessment</a><a class="page-link" href="/web_bench/Stacked%20Bar%20Charts.html">Stacked Bar Charts</a><a class="page-link" href="/web_bench/about/">About</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -48,56 +48,68 @@
 
 <h3 id="fda-drugs-labeled-for-adverse-event-fdlae-file">FDA Drugs Labeled for Adverse Event (FDLAE) File</h3>
 
-<p>Number of Adverse Events listed: 34
-Number of Adverse events with identifiable CUIs: 26</p>
+<p>Number of Adverse Events listed: 34 <br />
+Number of Adverse events with identifiable CUIs: 26 \</p>
 
-<p>Number of ingredients (identified Drugs and others): 1970
-Number of Identified DrugBank Drugs: 1759</p>
+<p>Number of ingredients (identified Drugs and others): 1970 <br />
+Number of Identified DrugBank Drugs: 1759 \</p>
+
+<p>Source File: (FDA Drugs Labeled for Adverse Event (FDLAE) File)(https://drive.google.com/file/d/1_2a8m1ehTjmnd_b0_dxRmh-Ir7R4NO3Q/view?usp=sharing)</p>
+
+<p><strong>Table 1. Drug-adverse event reactions extracted from drug labels.</strong> Side effects from drug labels, their associated PathFX synonyms and CUI terms as well as all ingredients and ingredients mapped to DrugBank identifiers are described above \</p>
+
+<p><img src="/web_bench/display_files/benchmark_general_results/tables/fda_table_adverse_events.png" alt="image" /></p>
+
+<p>Source file: Drug-adverse event reactions extracted from drug labels)(https://drive.google.com/file/d/1vqrlwiJaUjHq8j0J92sLwRIakopeanS1/view?usp=sharing)</p>
+
+<p><strong>Supplement Figure 1. Table of Identified Ingredients</strong> PathFX Version 1 and Version 2 both shared 2054 unique drugs listed in their interaction files</p>
+
+<p><img src="/web_bench/display_files/benchmark_general_results/tables/fda_table_ingrediants.png" alt="image" /></p>
+
+<p>Source file: Table of Identified Ingredients)(https://drive.google.com/file/d/1fydAgRB_Vll63KYPROtJsK7peQdZadMp/view?usp=sharing)</p>
 
 <h3 id="pathfx-version-1-and-version-2-pathfx-benchmark-dataframe">PathFX Version 1 and Version 2 (PathFX Benchmark) DataFrame</h3>
 
-<p>Number of (CUI, Drug) Records: 1881
-Number of unique CUIs: 5583
-Number of unique Phenotypes in PathFX Version 1: 7373
-Number of unique Phenotypes in PathFX Version 2: 7515
-Number of unique DrugBank IDs: 1738
-Number of unique Drugs: 1743</p>
+<p>Number of (CUI, Drug) Records: 1881 <br />
+Number of unique CUIs: 5583 <br />
+Number of unique Phenotypes in PathFX Version 1: 7373 <br />
+Number of unique Phenotypes in PathFX Version 2: 7515 <br />
+Number of unique DrugBank IDs: 1738 <br />
+Number of unique Drugs: 1743 \</p>
 
-<p>Number of (CUI, Drug) Records Associated in PathFX Version 1: 403347
-Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554
-Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183</p>
+<p>Number of (CUI, Drug) Records Associated in PathFX Version 1: 403347 <br />
+Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554 <br />
+Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183 \</p>
+
+<p>Table X. Benchmark DataFrame for PathFX Version 1.0 and 2.</p>
 
 <h3 id="intersection-of-fda-drugs-labeled-for-adverse-event-fdlae-file-and-pathfx-benchmark-dataframe-with-intersection-of-version-1-and-2-associated-records">Intersection of FDA Drugs Labeled for Adverse Event (FDLAE) File and PathFX Benchmark DataFrame (with intersection of Version 1 and 2 associated records)</h3>
 
-<p>Number of (CUI, Drug) Records: 355
-Number of unique CUIs: 16
-Number of unique Phenotypes in PathFX Version 1: 16
-Number of unique Phenotypes in PathFX Version 2: 16
-Number of unique DrugBank IDs: 195
-Number of unique Drugs: 195</p>
+<p>Number of (CUI, Drug) Records: 355 <br />
+Number of unique CUIs: 16 <br />
+Number of unique Phenotypes in PathFX Version 1: 16 <br />
+Number of unique Phenotypes in PathFX Version 2: 16 <br />
+Number of unique DrugBank IDs: 195 <br />
+Number of unique Drugs: 195 \</p>
 
-<p>Number of (CUI, Drug) Records Associated in PathFX Version 1: 355
-Number of (CUI, Drug) Records Associated in PathFX Version 2: 355
-Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355</p>
-
-<h3 id="supported-figures">Supported Figures</h3>
-
-<p><a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/tables/test.html">test</a></p>
+<p>Number of (CUI, Drug) Records Associated in PathFX Version 1: 355 <br />
+Number of (CUI, Drug) Records Associated in PathFX Version 2: 355 <br />
+Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355 \</p>
 
 <p><strong>Table Info on Comparing the Distribution of the Difference in -log(Benjamini Hochberg) between PathFX Version 2 and Version 1</strong> 
-<img src="/display_files/benchmark_general_results/tables/one.png" alt="image" /></p>
+<img src="/web_bench/display_files/benchmark_general_results/tables/one.png" alt="image" /></p>
 
 <p><strong>Table Info on Comparing the Distribution of the Difference in -log(Benjamini Hochberg) between PathFX Version 2 and Version 1</strong>
-<img src="/display_files/benchmark_general_results/tables/two.png" alt="image" /></p>
+<img src="/web_bench/display_files/benchmark_general_results/tables/two.png" alt="image" /></p>
 
-<p><img src="/display_files/benchmark_general_results/tables/three.png" alt="image" /></p>
+<p><img src="/web_bench/display_files/benchmark_general_results/tables/three.png" alt="image" /></p>
 
-<p><img src="/display_files/benchmark_general_results/tables/four.png" alt="image" /></p>
+<p><img src="/web_bench/display_files/benchmark_general_results/tables/four.png" alt="image" /></p>
 
 <p><strong>Table Comparing -log(Benjamini Hochberg) Greater Value in PathFX Version 2 vs. Version 1</strong> 
-<img src="/display_files/benchmark_general_results/tables/five.png" alt="image" /></p>
+<img src="/web_bench/display_files/benchmark_general_results/tables/five.png" alt="image" /></p>
 
-<p>Graphs</p>
+<h3 id="supported-figures">Supported Figures</h3>
 
 <p><a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/one.html">Difference in -log(Benjamini Hochberg) between Version 2 and Version 1 of PathFX for each CUI-Drug Record</a></p>
 
@@ -120,7 +132,7 @@ Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355</p>
 
       </div>
     </main><footer class="site-footer h-card">
-  <data class="u-url" href="/"></data>
+  <data class="u-url" href="/web_bench/"></data>
 
   <div class="wrapper">
 
@@ -132,7 +144,7 @@ Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355</p>
           <li class="p-name">PathFX Benchmark Results</li><li><a class="u-email" href="mailto:pathfx_support@googlegroups.com">pathfx_support@googlegroups.com</a></li></ul>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/aryastark5"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">aryastark5</span></a></li><li><a href="https://www.twitter.com/aryamirpour"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">aryamirpour</span></a></li></ul>
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/aryastark5"><svg class="svg-icon"><use xlink:href="/web_bench/assets/minima-social-icons.svg#github"></use></svg> <span class="username">aryastark5</span></a></li><li><a href="https://www.twitter.com/aryamirpour"><svg class="svg-icon"><use xlink:href="/web_bench/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">aryamirpour</span></a></li></ul>
 </div>
 
       <div class="footer-col footer-col-3">
