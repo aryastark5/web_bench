@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-image: /assets/images/long.png
 ---
+![image tooltip here](/display_figures/icons/lune.png)
