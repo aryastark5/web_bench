@@ -14,8 +14,8 @@ title: Neighborhood Gene Assessment
 **Figure (X).** [Distribution of Neighborhood Gene List Size between PathFX Versions](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_genes_results/graphs/Distribution_of_Neighborhood_Gene_List_Size_between_PathFX_Versions.html)
 ![image](display_files/neighborhood_genes_results/graphs/Distribution_of_Neighborhood_Gene_List_Size_between_PathFX_Versions.png)
 
-**Figure (X).** [Distribution of Unique Neighborhood Gene List Size between PathFX Versions](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_genes_results/graphs/Distribution_of_Unique_eighborhood_Gene_List_Size_between_PathFX_Versions.html)
-![image](display_files/neighborhood_genes_results/graphs/Distribution_of_UniquevNeighborhood_Gene_List_Size_between_PathFX_Versions.png)
+**Figure (X).** [Distribution of Unique Neighborhood Gene List Size between PathFX Versions](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_genes_results/graphs/Distribution_of_Unique_Neighborhood_Gene_List_Size_between_PathFX_Versions.html)
+![image](display_files/neighborhood_genes_results/graphs/Distribution_of_Unique_Neighborhood_Gene_List_Size_between_PathFX_Versions.png)
 
 
 

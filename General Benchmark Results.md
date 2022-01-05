@@ -45,7 +45,7 @@ Source File: [Table of Identified Ingredients](https://drive.google.com/file/d/1
 
 ![image](display_files/benchmark_general_results/tables/benchmark_dataframe.png)
 
-Source File: (Please Contact Lab for more information)
+Source File: (Please contact the lab for more information regarding this)
 
 ### Intersection of FDA Drugs Labeled for Adverse Event (FDLAE) File and PathFX Benchmark DataFrame (with intersection of Version 1 and 2 associated records) 
 
