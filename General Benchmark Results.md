@@ -82,7 +82,21 @@ Source File: (Please Contact Lab for more information)
 **Figure (X).** [Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/-log_bh_v1_vs_-log_bh_v2.html)
 ![image](display_files/benchmark_general_results/graphs/-log_bh_v1_vs_-log_bh_v2.png)
 
+
+
 ### Difference in in Values between the PathFX Versions
+
+
+**Table (X).** [Difference in -Log(Benjamini-Hochberg) Statistic summary between PathFX Versions]()
+![image](display_files/benchmark_general_results/tables/diff_bh_all_records_stats_table.png)
+
+**Table (X).** [Difference in -Log(Benjamini-Hochberg) Statistic summary for Specific Adverse events between PathFX Versions]()
+![image](display_files/benchmark_general_results/tables/diff_bh_per_adverse_event_stats_table.png)
+
+
+**Figure (X).** [Distribution of Difference in -Log(Benjamin Hochberg) for each 16 unique adverse events](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/distribution_difference_-log_bh_per_adverse_event.html)
+![image](display_files/benchmark_general_results/graphs/distribution_difference_-log_bh_per_adverse_event.png)
+
 
 **Figure (X).** [Waterfall plot of Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all (CUI, Drug) records for Pathv1 and PathFXv2](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/log_bh_waterfall_plot.html)
 ![image](display_files/benchmark_general_results/graphs/-log_bh_waterfall_plot.png)
@@ -90,8 +104,6 @@ Source File: (Please Contact Lab for more information)
 **Figure (X).** [Waterfall plot of Mean Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all Phenotypes for Pathv1 and PathFXv2e](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/-log_bh_adverse_event_waterfall_plot.html)
 ![image](display_files/benchmark_general_results/graphs/-log_bh_adverse_event_waterfall_plot.png)
 
-**Figure (X).** [Distribution of Difference in -Log(Benjamin Hochberg) for each 16 unique adverse events](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/benchmark_general_results/graphs/distribution_difference_-log_bh_per_adverse_event.html)
-![image](display_files/benchmark_general_results/graphs/distribution_difference_-log_bh_per_adverse_event.png)
 
 
 
