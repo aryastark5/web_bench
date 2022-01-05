@@ -71,9 +71,7 @@ Source File: (Please Contact Lab for more information)
 ![image](display_files/benchmark_general_results/tables/bh_inequa_adverse_event_comp_table.png)
 
 **Table (X).** [Table (X). Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all Drugs](https://drive.google.com/file/d/11gvSlOychIHc8a1dDoC7LUFHQzVh8kdS/view?usp=sharing)
-![image](display_files/benchmark_general_results/tables/drug_bh_assoc_version_table.png
-
-
+![image](display_files/benchmark_general_results/tables/drug_bh_assoc_version_table.png)
 
 
 
