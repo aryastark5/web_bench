@@ -26,7 +26,6 @@ baseurl: "web_bench" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aryamirpour
 github_username:  aryastark5
-logo: 'display_files/logo.png'
 
 # Build settings
 theme: minima
