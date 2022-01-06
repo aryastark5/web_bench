@@ -3,7 +3,9 @@ layout: page
 title: General Benchmark Results
 ---
 
+
 ## General Summary   
+***
 
 Below is a general summary of the results after comparing PathFX Version 1.0 and Version 2.0.
 
@@ -47,7 +49,7 @@ Source File: [Table of Identified Ingredients](https://github.com/aryastark5/web
 
 **Table 3.** Benchmark DataFrame for PathFX Version 1.0 and 2.0** Merged PathFX analysis for shared drugs identified side-effect related phenotypes and reported phenotype-associated genes in drug networks.
 
-![image](display_files/source_files/benchmar_dataframe.png)
+![image](display_files/source_files/benchmark_dataframe.png)
 
 Source File: (Please contact the lab for more information regarding this)
 
@@ -63,7 +65,10 @@ Source File: (Please contact the lab for more information regarding this)
 - Number of (CUI, Drug) Records Associated in PathFX Version 2: 355 
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355 
 
+
+
 ## Benjamini-Hochberg
+***
 
 ### Score Size Comparison between PathFX Versions
 
