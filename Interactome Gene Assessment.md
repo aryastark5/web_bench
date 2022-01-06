@@ -13,17 +13,17 @@ title: Interactome Gene Assessment
 ![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/all_records_intom_gene_stats_table.png)
 <br />  
 <br />  
-[**Figure (X). Distribution of Interactome Gene List Size between PathFX Versions**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_intom_Gene_List_Size_between_PathFX_Versions.html)
+[**Figure (X). Distribution of Interactome Gene List Size between PathFX Versions**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Interactome_Gene_List_Size_between_PathFX_Versions.html)
 <br />  
 
-![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_intom_Gene_List_Size_between_PathFX_Versions.png)
+![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Interactome_Gene_List_Size_between_PathFX_Versions.png)
 <br />  
 <br />  
 
-[**Figure (X). Distribution of Unique Interactome Gene List Size between PathFX Versions**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Unique_intom_Gene_List_Size_between_PathFX_Versions.html)
+[**Figure (X). Distribution of Unique Interactome Gene List Size between PathFX Versions**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Unique_Interactome_Gene_List_Size_between_PathFX_Versions.html)
 <br />  
 
-![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Unique_intom_Gene_List_Size_between_PathFX_Versions.png)
+![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Unique_Interactome_Gene_List_Size_between_PathFX_Versions.png)
 <br />  
 <br />  
 
@@ -49,23 +49,23 @@ title: Interactome Gene Assessment
 ### General Comparison between PathFX Version 1.0 and 2.0
 <br />  
 
-[**Figure (X). Difference in -Log(BH) vs Unique Version 1 Interactome Gene List**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_intom_Gene_List.html)
+[**Figure (X). Difference in -Log(BH) vs Unique Version 1 Interactome Gene List**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Interactome_Gene_List.html)
 <br />  
 
-![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_intom_Gene_List.png)
+![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Interactome_Gene_List.png)
 <br />  
 <br />  
 
-[**Figure (X). Difference in -Log(BH) vs Unique Version 2 Interactome Gene List**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_intom_Gene_List.html)
+[**Figure (X). Difference in -Log(BH) vs Unique Version 2 Interactome Gene List**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Interactome_Gene_List.html)
  
-![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_intom_Gene_List.png)
+![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Interactome_Gene_List.png)
 <br />  
 <br />  
 
-[**Figure (X). Difference in Frequncy for Adverse Event Count between PathFX Versions for all Interactome Genes**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_intom_Genes.html)
+[**Figure (X). Difference in Frequncy for Adverse Event Count between PathFX Versions for all Interactome Genes**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Interactome_Genes.html)
 <br />  
 
-![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_intom_Genes.png)
+![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Interactome_Genes.png)
 <br />  
 <br />  
 <br />  
