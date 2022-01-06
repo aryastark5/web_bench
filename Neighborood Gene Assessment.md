@@ -77,7 +77,7 @@ title: Neighborhood Gene Assessment
 
 #### PathFX Version 1.0 
 
-[**Figure (X). Neighoborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1/neigh_genes_version_1_Gene_Frequency.html)
+[**Figure (X). Neighborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1/neigh_genes_version_1_Gene_Frequency.html)
 
 [**Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1/neigh_genes_version_1_Difference_in_-log_BH_for_each_individual_Gene-Drug_Record.html)
 
@@ -91,7 +91,7 @@ title: Neighborhood Gene Assessment
 
 #### PathFX Version 1.0 Only
 
-[**Figure (X). Neighoborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_only/neigh_genes_version_1_only_Gene_Frequency.html)
+[**Figure (X). Neighborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_only/neigh_genes_version_1_only_Gene_Frequency.html)
 
 [**Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_only/neigh_genes_version_1_only_Difference_in_-log_BH_for_each_individual_Gene-Drug_Record.html)
 
@@ -105,7 +105,7 @@ title: Neighborhood Gene Assessment
 
 #### PathFX Version 2.0
 
-[**Figure (X). Neighoborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_2/neigh_genes_version_2_Gene_Frequency.html)
+[**Figure (X). Neighborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_2/neigh_genes_version_2_Gene_Frequency.html)
 
 [**Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_2/neigh_genes_version_2_Difference_in_-log_BH_for_each_individual_Gene-Drug_Record.html)
 
@@ -119,7 +119,7 @@ title: Neighborhood Gene Assessment
 
 #### PathFX Version 2.0 Only
 
-[**Figure (X). Neighoborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_2_only/neigh_genes_version_2_only_Gene_Frequency.html)
+[**Figure (X). Neighborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_2_only/neigh_genes_version_2_only_Gene_Frequency.html)
 
 [**Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_2_only/neigh_genes_version_2_only_Difference_in_-log_BH_for_each_individual_Gene-Drug_Record.html)
 
@@ -133,7 +133,7 @@ title: Neighborhood Gene Assessment
 
 #### PathFX Version 1.0 and 2.0 Intersecting
 
-[**Figure (X). Neighoborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_and_2_intersecting/neigh_genes_version_1_and_2_intersecting_Gene_Frequency.html)
+[**Figure (X). Neighborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_and_2_intersecting/neigh_genes_version_1_and_2_intersecting_Gene_Frequency.html)
 
 [**Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_and_2_intersecting/neigh_genes_version_1_and_2_intersecting_Difference_in_-log_BH_for_each_individual_Gene-Drug_Record.html)
 
@@ -147,7 +147,7 @@ title: Neighborhood Gene Assessment
 
 #### PathFX Version 1.0 and 2.0 Symmetric Difference
 
-[**Figure (X). Neighoborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_and_2_symmetric_difference/neigh_genes_version_1_and_2_symmetric_difference_Gene_Frequency.html)
+[**Figure (X). Neighborhood Genes Frequency**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_and_2_symmetric_difference/neigh_genes_version_1_and_2_symmetric_difference_Gene_Frequency.html)
 
 [**Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_and_2_symmetric_difference/neigh_genes_version_1_and_2_symmetric_difference_Difference_in_-log_BH_for_each_individual_Gene-Drug_Record.html)
 
