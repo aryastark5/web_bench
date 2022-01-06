@@ -42,24 +42,119 @@
   </header>
 
   <div class="post-content">
-    <p><strong>Figure (X).</strong> <a href="[1][3]">Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2</a></p>
+    <h2 id="general-summary">General Summary</h2>
 
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Figure (X).</strong> [Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2](<a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/">1</a></td>
-      <td><a href="/web_bench/display_files/output_benchmark_general_results/Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_each_CUI-Drug_Record.html">3</a>)</td>
-    </tr>
-  </tbody>
-</table>
+<p>Below is a general summary of the results after comparing PathFX Version 1.0 and Version 2.0.</p>
 
-<p><strong>Figure (X).</strong> <a href="[1]+[3]">Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2</a></p>
+<h3 id="fda-drugs-labeled-for-adverse-event-fdlae-file">FDA Drugs Labeled for Adverse Event (FDLAE) File</h3>
 
-<p><strong>Figure (X).</strong> <a href="[1+3]">Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2</a></p>
+<ul>
+  <li>Number of Adverse Events listed: 34</li>
+  <li>Number of Adverse events with identifiable CUIs: 26</li>
+  <li>Number of ingredients (identified Drugs and others): 1970</li>
+  <li>Number of Identified DrugBank Drugs: 1759</li>
+</ul>
 
-<p><strong>Figure (X).</strong> <a href="1+3">Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2</a></p>
+<p>Source File: <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/">FDA Drugs Labeled for Adverse Event (FDLAE) File</a></p>
 
-<p><strong>Figure (X).</strong> <a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_each_CUI-Drug_Record.html">Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2</a></p>
+<p><strong>Table 1.</strong> Drug-adverse event reactions extracted from drug labels.** Side effects from drug labels, their associated PathFX synonyms and CUI terms as well as all ingredients and ingredients mapped to DrugBank identifiers are described above</p>
+
+<p><img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/" alt="image" /></p>
+
+<p>Source File: <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/">Drug-adverse event reactions extracted from drug labels</a></p>
+
+<p><strong>Supplement Figure 1. Table of Identified Ingredients</strong> PathFX Version 1 and Version 2 both shared 2054 unique drugs listed in their interaction files</p>
+
+<p><img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/" alt="image" /></p>
+
+<p>Source File: <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/">Table of Identified Ingredients</a></p>
+
+<h3 id="pathfx-version-1-and-version-2-pathfx-benchmark-dataframe">PathFX Version 1 and Version 2 (PathFX Benchmark) DataFrame</h3>
+
+<ul>
+  <li>Number of (CUI, Drug) Records: 1881</li>
+  <li>Number of unique CUIs: 5583</li>
+  <li>Number of unique Phenotypes in PathFX Version 1: 7373</li>
+  <li>Number of unique Phenotypes in PathFX Version 2: 7515</li>
+  <li>Number of unique DrugBank IDs: 1738</li>
+  <li>Number of unique Drugs: 1743</li>
+  <li>Number of (CUI, Drug) Records Associated in PathFX Version 1: 403347</li>
+  <li>Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554</li>
+  <li>Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183</li>
+</ul>
+
+<p><strong>Table 3.</strong> Benchmark DataFrame for PathFX Version 1.0 and 2.0** Merged PathFX analysis for shared drugs identified side-effect related phenotypes and reported phenotype-associated genes in drug networks.</p>
+
+<p><img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/" alt="image" /></p>
+
+<p>Source File: (Please contact the lab for more information regarding this)</p>
+
+<h3 id="intersection-of-fda-drugs-labeled-for-adverse-event-fdlae-file-and-pathfx-benchmark-dataframe-with-intersection-of-version-1-and-2-associated-records">Intersection of FDA Drugs Labeled for Adverse Event (FDLAE) File and PathFX Benchmark DataFrame (with intersection of Version 1 and 2 associated records)</h3>
+
+<ul>
+  <li>Number of (CUI, Drug) Records: 355</li>
+  <li>Number of unique CUIs: 16</li>
+  <li>Number of unique Phenotypes in PathFX Version 1: 16</li>
+  <li>Number of unique Phenotypes in PathFX Version 2: 16</li>
+  <li>Number of unique DrugBank IDs: 195</li>
+  <li>Number of unique Drugs: 195</li>
+  <li>Number of (CUI, Drug) Records Associated in PathFX Version 1: 355</li>
+  <li>Number of (CUI, Drug) Records Associated in PathFX Version 2: 355</li>
+  <li>Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355</li>
+</ul>
+
+<h2 id="benjamini-hochberg">Benjamini-Hochberg</h2>
+
+<h3 id="score-size-comparison-between-pathfx-versions">Score Size Comparison between PathFX Versions</h3>
+
+<p><strong>Table (X).</strong> <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_inequa_comp_table.csv">Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all (CUI, Drug) records</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_inequa_comp_table.png" alt="image" /></p>
+
+<p><strong>Table (X).</strong> <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/">Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all Adverse Events</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/" alt="image" /></p>
+
+<p><strong>Table (X).</strong> <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/">Table (X). Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all Drugs</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/" alt="image" /></p>
+
+<h3 id="distribution-of-values-for-each-pathfx-version">Distribution of Values for each PathFX Version</h3>
+
+<ul>
+  <li>Number of times Version 1 had higher -Log(Benjamini-Hochberg) value: 287.0</li>
+  <li>Number of times Version 2 had higher -Log(Benjamini-Hochberg) value: 68.0</li>
+  <li>Number of times Version 1 and Version 2 had same -Log(Benjamini-Hochberg) value: 0.0</li>
+</ul>
+
+<p><strong>Table (X).</strong> <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_all_records_stats_table.csv">-Log(Benjamini-Hochberg) Statistic summary between PathFX Versions</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_all_records_stats_table.png" alt="image" /></p>
+
+<p><strong>Table (X).</strong> <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/">-Log(Benjamini-Hochberg) Statistic summary for Specific Adverse events between PathFX Versions</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/" alt="image" /></p>
+
+<p><strong>Figure (X).</strong> <a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Distribution_of_-Log_Benjamini-Hochberg_between_PathFX_Versions.html">Distribution of -Log(Benjamini-Hochberg) values shown across all (CUI, Drug) records for Pathv1 and PathFXv2</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Distribution_of_-Log_Benjamini-Hochberg_between_PathFX_Versions.png" alt="image" /></p>
+
+<p><strong>Figure (X).</strong> <a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/-log_Benjamini-Hochberg_Version_1_vs_-log_Benjamini-Hochberg_Version_2.html">Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/-log_Benjamini-Hochberg_Version_1_vs_-log_Benjamini-Hochberg_Version_2.png" alt="image" /></p>
+
+<h3 id="difference-in-values-between-the-pathfx-versions">Difference in Values between the PathFX Versions</h3>
+
+<p><strong>Table (X).</strong> <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/diff_bh_all_records_stats_table.csv">Difference in -Log(Benjamini-Hochberg) Statistic summary between PathFX Versions</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/diff_bh_all_records_stats_table.png" alt="image" /></p>
+
+<p><strong>Table (X).</strong> <a href="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/diff_bh_per_adverse_event_stats_table.csv">Difference in -Log(Benjamini-Hochberg) Statistic summary for Specific Adverse events between PathFX Versions</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/diff_bh_per_adverse_event_stats_table.png" alt="image" /></p>
+
+<p><strong>Figure (X).</strong> <a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Difference_in_-Log_Benjamini-Hochberg_between_PathFX_Version_2_and_Version_1_per_CUI.html">Distribution of Difference in -Log(Benjamin Hochberg) for each 16 unique adverse events</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Difference_in_-Log_Benjamini-Hochberg_between_PathFX_Version_2_and_Version_1_per_CUI.png" alt="image" /></p>
+
+<p><strong>Figure (X).</strong> <a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_each_CUI-Drug_Record.html">Waterfall plot of Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all (CUI, Drug) records for Pathv1 and PathFXv2</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_each_CUI-Drug_Record.png" alt="image" /></p>
+
+<p><strong>Figure (X).</strong> <a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Mean_Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_Phenotype.html">Waterfall plot of Mean Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all Phenotypes for Pathv1 and PathFXv2e</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Mean_Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_Phenotype.png" alt="image" /></p>
+
+<p><strong>Figure (X).</strong> <a href="https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Mean_Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_each_Drug.html">Waterfall plot of Mean Difference in -Log(Benjamini-Hochberg) between PathFX Versions across all Drugs for Pathv1 and PathFXv2e</a>
+<img src="https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Mean_Difference_in_-Log_Benjamini-Hochberg_between_Version_2_and_Version_1_of_PathFX_for_each_Drug.png" alt="image" /></p>
 
 
   </div>
