@@ -5,7 +5,8 @@ title: Neighborhood Gene Assessment
 
 ## Numerical Gene List Size Summary   
 ---------------------------------------------------------------------------
-<br\>
+<br />  
+<br />  
  
 
 [**Table (X). Neighborhood Gene List Size Stats Across all records**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/all_recrods_neigh_gene_stats_table.csv)
