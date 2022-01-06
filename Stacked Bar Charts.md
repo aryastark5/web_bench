@@ -11,13 +11,13 @@ title: Stacked Bar Charts
 
 ### Neighborhood Gene
 
-[**Figure (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Neighborhood_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
+[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Neighborhood_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
 <br /> 
 ![image](display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Neighborhood_Gene_list_Size_per_CUI-Drug_Record_Associations.png)
 <br /> 
 <br /> 
 
-[**Figure (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Neighborhood_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
+[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Neighborhood_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
 <br /> 
 ![image](display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Neighborhood_Gene_list_Size_per_CUI-Drug_Record_Associations.png)
 <br /> 
@@ -25,13 +25,13 @@ title: Stacked Bar Charts
 
 ### Interactome Gene
 
-[**Figure (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Interactome_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
+[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Interactome_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
 <br /> 
 ![image](display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Interactome_Gene_list_Size_per_CUI-Drug_Record_Associations.png)
 <br /> 
 <br /> 
 
-[**Figure (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Interactome_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
+[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Interactome_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
 <br /> 
 ![image](display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Interactome_Gene_list_Size_per_CUI-Drug_Record_Associations.png)
 <br /> 
@@ -39,13 +39,13 @@ title: Stacked Bar Charts
 
 ### Drug Target Gene
 
-[**Figure (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Drug_Target_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
+[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Drug_Target_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
 <br /> 
 ![image](display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Stacked_Drug_Target_Gene_list_Size_per_CUI-Drug_Record_Associations.png)
 <br /> 
 <br /> 
 
-[**Figure (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Drug_Target_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
+[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Drug_Target_Gene_list_Size_per_CUI-Drug_Record_Associations.html)
 <br /> 
 ![image](display_files/output_stacked_bar_chart_analysis/every_cui_drug_record/Normalized_Stacked_Drug_Target_Gene_list_Size_per_CUI-Drug_Record_Associations.png)
 <br /> 
@@ -78,3 +78,12 @@ title: Stacked Bar Charts
 
 ![image](display_files/output_stacked_bar_chart_analysis/Average_Mean_Percentage_with_STD_Error_for_each_Type_of_Normalized_Stacked_Bar_Chart.png)
 <br /> 
+
+
+
+
+
+
+
+
+
