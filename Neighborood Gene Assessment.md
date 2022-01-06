@@ -3,7 +3,8 @@ layout: page
 title: Neighborhood Gene Assessment
 ---
 
-## General
+## Numerical Gene List Size Summary   
+---------------------------------------------------------------------------
 
 [**Table (X). Neighborhood Gene List Size Stats Across all records**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/all_recrods_neigh_gene_stats_table.csv)
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/all_recrods_neigh_gene_stats_table.png)
@@ -29,7 +30,8 @@ title: Neighborhood Gene Assessment
 
 
 
-### Gene Content
+## Gene List Content Summary   
+---------------------------------------------------------------------------
  
  
 [**Figure (X). Difference in -LogBH vs Unique Version 1 Neighborhood Gene List**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.html)
