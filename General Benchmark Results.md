@@ -60,7 +60,7 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355 
 
 **Table 3. Benchmark DataFrame for PathFX Version 1.0 and 2.0** Merged PathFX analysis for shared drugs identified side-effect related phenotypes and reported phenotype-associated genes in drug networks. (For more information about this data, please contact the lab)
-![image](display_files/source_files/benchmark_dataframe.png)\\
+![image](display_files/source_files/benchmark_dataframe.png)\
  
 
  
