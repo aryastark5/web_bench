@@ -5,6 +5,8 @@ title: Neighborhood Gene Assessment
 
 ## Numerical Gene List Size Summary   
 ---------------------------------------------------------------------------
+ \
+ 
 
 [**Table (X). Neighborhood Gene List Size Stats Across all records**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/all_recrods_neigh_gene_stats_table.csv)
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/all_recrods_neigh_gene_stats_table.png)
@@ -34,7 +36,8 @@ title: Neighborhood Gene Assessment
 ## Gene List Content Summary   
 ---------------------------------------------------------------------------
  
- 
+### General
+
 [**Figure (X). Difference in -LogBH vs Unique Version 1 Neighborhood Gene List**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.html)
  
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.png)
@@ -50,6 +53,24 @@ title: Neighborhood Gene Assessment
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Neighborhood_Genes.png)
  
  
+https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1/
+
+### PathFX Version 1.0
+
+
+### PathFX Version 1.0 Only
+
+
+### PathFX Version 2.0
+
+
+### PathFX Version 2.0 Only
+
+
+### PathFX Version 1.0 and 2.0 Intersecting
+
+
+### PathFX Version 1.0 and 2.0 Symmetric Difference
 
 
 
