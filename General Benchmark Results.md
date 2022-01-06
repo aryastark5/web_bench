@@ -3,16 +3,18 @@ layout: page
 title: General Benchmark Results
 ---
 
+<br/> 
 
 ## General Summary   
-=====================================================================================
-
-<br /> 
+**---------------------------------------------------------------------------**
+<br/> 
 Below is a general summary of the results after comparing PathFX Version 1.0 and Version 2.0.
-<br /> 
+<br/> 
+<br/> 
+
 
 ### FDA Drugs Labeled for Adverse Event (FDLAE) File
----------------------------------------------------------------------------
+<br/>
 - Number of Adverse Events listed: 34 
 - Number of Adverse events with identifiable CUIs: 26 
 - Number of ingredients (identified Drugs and others): 1970 
@@ -37,7 +39,7 @@ Source File: [Drug-adverse event reactions extracted from drug labels](https://g
 Source File: [Table of Identified Ingredients](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/ingrediants_table.csv)
 
 ### PathFX Version 1 and Version 2 (PathFX Benchmark) DataFrame
----------------------------------------------------------------------------
+<br/>
 - Number of (CUI, Drug) Records: 1881 
 - Number of unique CUIs: 5583 
 - Number of unique Phenotypes in PathFX Version 1: 7373 
@@ -55,7 +57,7 @@ Source File: [Table of Identified Ingredients](https://github.com/aryastark5/web
 Source File: (Please contact the lab for more information regarding this)
 
 ### Intersection of FDA Drugs Labeled for Adverse Event (FDLAE) File and PathFX Benchmark DataFrame (with intersection of Version 1 and 2 associated records) 
----------------------------------------------------------------------------
+<br/>
 - Number of (CUI, Drug) Records: 355 
 - Number of unique CUIs: 16 
 - Number of unique Phenotypes in PathFX Version 1: 16 
@@ -66,11 +68,12 @@ Source File: (Please contact the lab for more information regarding this)
 - Number of (CUI, Drug) Records Associated in PathFX Version 2: 355 
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355 
 
----------------------------------------------------------------------------
+
+<br/>
 
 ## Benjamini-Hochberg
 ---------------------------------------------------------------------------
-
+<br/>
 ### Score Size Comparison between PathFX Versions
 
 
