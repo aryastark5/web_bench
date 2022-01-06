@@ -34,7 +34,7 @@ title: Neighborhood Gene Assessment
 <br />  
 <br />  
 
-[**Table (X). Neighborhood Gene Frequency for Each Adverse Event Info Table**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/neigh_genes_version_count_info_table.csv)
+[**Table (X). Neighborhood Gene Frequency for Each Adverse Event Info Table**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/neigh_genes_version_count_info_table.csv)
 <br />  
 
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/neigh_genes_version_count_info_table.png)
@@ -49,20 +49,20 @@ title: Neighborhood Gene Assessment
 ### General Comparison between PathFX Version 1.0 and 2.0
 <br />  
 
-[**Figure (X). Difference in -Log(BH) vs Unique Version 1 Neighborhood Gene List**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.html)
+[**Figure (X). Difference in -Log(BH) vs Unique Version 1 Neighborhood Gene List**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.html)
 <br />  
 
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.png)
 <br />  
 <br />  
 
-[**Figure (X). Difference in -Log(BH) vs Unique Version 2 Neighborhood Gene List**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.html)
+[**Figure (X). Difference in -Log(BH) vs Unique Version 2 Neighborhood Gene List**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.html)
  
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Neighborhood_Gene_List.png)
 <br />  
 <br />  
 
-[**Figure (X). Difference in Frequncy for Adverse Event Count between PathFX Versions for all Neighborhood Genes**](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Neighborhood_Genes.html)
+[**Figure (X). Difference in Frequncy for Adverse Event Count between PathFX Versions for all Neighborhood Genes**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Neighborhood_Genes.html)
 <br />  
 
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Neighborhood_Genes.png)

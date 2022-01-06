@@ -49,20 +49,20 @@ title: Drug Target Gene Assessment
 ### General Comparison between PathFX Version 1.0 and 2.0
 <br />  
 
-[**Figure (X). Difference in -Log(BH) vs Unique Version 1 Drug Target Gene List**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Drug_Target_Gene_List.html)
+[**Figure (X). Difference in -Log(BH) vs Unique Version 1 Drug Target Gene List**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Drug_Target_Gene_List.html)
 <br />  
 
 ![image](display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Drug_Target_Gene_List.png)
 <br />  
 <br />  
 
-[**Figure (X). Difference in -Log(BH) vs Unique Version 2 Drug Target Gene List**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Drug_Target_Gene_List.html)
+[**Figure (X). Difference in -Log(BH) vs Unique Version 2 Drug Target Gene List**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Drug_Target_Gene_List.html)
  
 ![image](display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/Difference_in_-Log_Benjamini-Hochberg_vs_Unique_Version_1_Drug_Target_Gene_List.png)
 <br />  
 <br />  
 
-[**Figure (X). Difference in Frequncy for Adverse Event Count between PathFX Versions for all Drug Target Genes**](display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Drug_Target_Genes.html)
+[**Figure (X). Difference in Frequncy for Adverse Event Count between PathFX Versions for all Drug Target Genes**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Drug_Target_Genes.html)
 <br />  
 
 ![image](display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/Difference_in_Frequncy_for_Adverse_Event_Count_between_PathFX_Versions_for_all_Drug_Target_Genes.png)
