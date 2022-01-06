@@ -1,7 +1,20 @@
 ---
 layout: page
 title: Stacked Bar Charts
+nav_order: 5
 ---
+
+# Stacked Bar Charts
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+<br />  
+
+
 
 
 ## Every (CUI, Drug)

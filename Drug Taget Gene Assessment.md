@@ -1,7 +1,21 @@
 ---
 layout: page
 title: Drug Target Gene Assessment
+nav_order: 4
 ---
+
+# Drug Target Gene Assessment
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+<br />  
+
+
+
 
 ## Numerical Gene List Size Summary   
 ---------------------------------------------------------------------------

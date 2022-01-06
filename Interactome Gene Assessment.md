@@ -1,7 +1,20 @@
 ---
 layout: page
 title: Interactome Gene Assessment
+nav_order: 3
 ---
+
+# Interactome Gene Assessment
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+<br />  
+
+
 
 ## Numerical Gene List Size Summary   
 ---------------------------------------------------------------------------
