@@ -17,19 +17,21 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 - Number of ingredients (identified Drugs and others): 1970 
 - Number of Identified DrugBank Drugs: 1759 
 
-Source File: [FDA Drugs Labeled for Adverse Event (FDLAE) File](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/)
+Source File: [FDA Drugs Labeled for Adverse Event (FDLAE) File](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/Drugs_labeled_for_AEs.txt)
+
+![image](display_files/source_files/Drugs_labeled_for_AEs.png)
 
 **Table 1.** Drug-adverse event reactions extracted from drug labels.** Side effects from drug labels, their associated PathFX synonyms and CUI terms as well as all ingredients and ingredients mapped to DrugBank identifiers are described above 
 
-![image](display_files/source_files/)
+![image](display_files/source_files/adverse_events_with_synonyms_and_ingrediant_info_table.csv)
 
-Source File: [Drug-adverse event reactions extracted from drug labels](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/)
+Source File: [Drug-adverse event reactions extracted from drug labels](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/adverse_events_with_synonyms_and_ingrediant_info_table.png))
 
 **Supplement Figure 1. Table of Identified Ingredients** PathFX Version 1 and Version 2 both shared 2054 unique drugs listed in their interaction files
 
-![image](display_files/source_files/)
+![image](display_files/source_files/ingrediants_table.csv)
 
-Source File: [Table of Identified Ingredients](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/)
+Source File: [Table of Identified Ingredients](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/ingrediants_table.png)
 
 ### PathFX Version 1 and Version 2 (PathFX Benchmark) DataFrame
 
@@ -45,7 +47,7 @@ Source File: [Table of Identified Ingredients](https://github.com/aryastark5/web
 
 **Table 3.** Benchmark DataFrame for PathFX Version 1.0 and 2.0** Merged PathFX analysis for shared drugs identified side-effect related phenotypes and reported phenotype-associated genes in drug networks.
 
-![image](display_files/source_files/)
+![image](display_files/source_files/benchmar_dataframe.png)
 
 Source File: (Please contact the lab for more information regarding this)
 
