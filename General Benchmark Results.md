@@ -6,7 +6,8 @@ title: General Benchmark Results
 <br/> 
 
 ## General Summary   
-**---------------------------------------------------------------------------**
+---------------------------------------------------------------------------
+<br/> 
 <br/> 
 Below is a general summary of the results after comparing PathFX Version 1.0 and Version 2.0.
 <br/> 
@@ -14,30 +15,30 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 
 
 ### FDA Drugs Labeled for Adverse Event (FDLAE) File
-<br/>
+\
 - Number of Adverse Events listed: 34 
 - Number of Adverse events with identifiable CUIs: 26 
 - Number of ingredients (identified Drugs and others): 1970 
 - Number of Identified DrugBank Drugs: 1759 
-
-
-Source File: [FDA Drugs Labeled for Adverse Event (FDLAE) File](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/Drugs_labeled_for_AEs.txt)
-
+\
+\
+**Supplemnt File (X).** [FDA Drugs Labeled for Adverse Event (FDLAE) File](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/Drugs_labeled_for_AEs.txt)
+\
 ![image](display_files/source_files/Drugs_labeled_for_AEs.png)
-
-
-**Table 1.** Drug-adverse event reactions extracted from drug labels.** Side effects from drug labels, their associated PathFX synonyms and CUI terms as well as all ingredients and ingredients mapped to DrugBank identifiers are described above 
-
+\
+\
+**Table 1.** Drug-adverse event reactions extracted from drug labels.** Side effects from drug labels, their associated PathFX synonyms and CUI terms as well as all ingredients and ingredients mapped to DrugBank identifiers are described above (Note: please contact lab for more questions regarding this file)
+\
 ![image](display_files/source_files/adverse_events_with_synonyms_and_ingrediant_info_table.png)
-
-Source File: [Drug-adverse event reactions extracted from drug labels](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/adverse_events_with_synonyms_and_ingrediant_info_table.csv))
-
-**Supplement Figure 1. Table of Identified Ingredients** PathFX Version 1 and Version 2 both shared 2054 unique drugs listed in their interaction files
-
+\
+\
+**Table (X)** [Drug-adverse event reactions extracted from drug labels](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/adverse_events_with_synonyms_and_ingrediant_info_table.csv))
+\
+[**Supplement Figure 1. Table of Identified Ingredients**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/ingrediants_table.csv) PathFX Version 1 and Version 2 both shared 2054 unique drugs listed in their interaction files
+\
 ![image](display_files/source_files/ingrediants_table.png)
-
-Source File: [Table of Identified Ingredients](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/ingrediants_table.csv)
-
+\
+\
 ### PathFX Version 1 and Version 2 (PathFX Benchmark) DataFrame
 <br/>
 - Number of (CUI, Drug) Records: 1881 
