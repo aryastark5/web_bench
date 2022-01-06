@@ -1,0 +1,19 @@
+,Number of Interactome Genes PathFXv1,Number of Interactome Genes PathFXv1,Number of Interactome Genes PathFXv1,Number of Interactome Genes PathFXv1,Number of Interactome Genes PathFXv1,Number of Interactome Genes PathFXv2,Number of Interactome Genes PathFXv2,Number of Interactome Genes PathFXv2,Number of Interactome Genes PathFXv2,Number of Interactome Genes PathFXv2
+,mean,std,min,max,sum,mean,std,min,max,sum
+Adverse Event,,,,,,,,,,
+Cerebral Infarction,297.0,0.0,297,297,1485,282.0,0.0,282,282,1410
+Deep Vein Thrombosis,112.0,0.0,112,112,224,109.0,0.0,109,109,218
+Delirium,35.0,0.0,35,35,385,44.0,0.0,44,44,484
+Edema,335.0,0.0,335,335,6030,92.0,0.0,92,92,1656
+Gastric ulcer,116.0,0.0,116,116,3016,94.0,0.0,94,94,2444
+Hemorrhage,74.0,0.0,74,74,888,36.0,0.0,36,36,432
+Hyperlipidemia,293.0,0.0,293,293,5567,231.0,0.0,231,231,4389
+Myocardial Infarction,1019.0,0.0,1019,1019,81520,1778.0,0.0,1778,1778,142240
+Pancreatitis,277.0,0.0,277,277,6648,286.0,0.0,286,286,6864
+Peripheral Neuropathy,756.0,,756,756,756,308.0,,308,308,308
+Pneumonia,471.0,0.0,471,471,32970,498.0,0.0,498,498,34860
+Proteinuria,209.0,0.0,209,209,836,201.0,0.0,201,201,804
+Pulmonary Edema,77.0,0.0,77,77,231,77.0,0.0,77,77,231
+Sepsis,602.0,0.0,602,602,19866,550.0,0.0,550,550,18150
+Tardive Dyskinesia,64.0,0.0,64,64,1536,50.0,0.0,50,50,1200
+Thrombocytopenia,253.0,0.0,253,253,5819,340.0,0.0,340,340,7820
