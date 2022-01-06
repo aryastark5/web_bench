@@ -2,17 +2,15 @@
 layout: page
 title: General Benchmark Results
 ---
-
-<br/> 
-
+\
+\
 ## General Summary   
 ---------------------------------------------------------------------------
-<br/> 
-<br/> 
+\
+\
 Below is a general summary of the results after comparing PathFX Version 1.0 and Version 2.0.
-<br/> 
-<br/> 
-
+\
+\
 
 ### FDA Drugs Labeled for Adverse Event (FDLAE) File
 \
