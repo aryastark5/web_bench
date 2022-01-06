@@ -6,7 +6,6 @@ title: General Benchmark Results
 ## General Summary   
 ---------------------------------------------------------------------------
 <br />  
- 
 Below is a general summary of the results after comparing PathFX Version 1.0 and Version 2.0.
 <br />  
  
@@ -17,7 +16,8 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 - Number of ingredients (identified Drugs and others): 1970 
 - Number of Identified DrugBank Drugs: 1759 
 <br />  
- 
+<br />  
+
 [**Supplement File (X). FDA Drugs Labeled for Adverse Event (FDLAE) File**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/Drugs_labeled_for_AEs.txt)
 <br />  
 ![image](display_files/source_files/Drugs_labeled_for_AEs.png)
@@ -47,6 +47,7 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 - Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554 
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183 
 <br />  
+<br />  
 
 ### Intersection of FDA Drugs Labeled for Adverse Event (FDLAE) File and PathFX Benchmark DataFrame (with intersection of Version 1 and 2 associated records)
  
@@ -60,6 +61,7 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 - Number of (CUI, Drug) Records Associated in PathFX Version 2: 355 
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355 
 <br />  
+<br />  
 
 **Table 3. Benchmark DataFrame for PathFX Version 1.0 and 2.0** Merged PathFX analysis for shared drugs identified side-effect related phenotypes and reported phenotype-associated genes in drug networks. (For more information about this data, please contact the lab)
 <br />  
@@ -71,7 +73,6 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 ## Benjamini-Hochberg
 ---------------------------------------------------------------------------
 <br />  
-
 Below is a summary of the differences between PathFX Version 1.0 and 2.0 in regards to the Benjamini-Hochberg value.
 <br />  
  
@@ -100,7 +101,8 @@ Below is a summary of the differences between PathFX Version 1.0 and 2.0 in rega
 - Number of times Version 1 had higher -Log(Benjamini-Hochberg) value: 287.0
 - Number of times Version 2 had higher -Log(Benjamini-Hochberg) value: 68.0
 - Number of times Version 1 and Version 2 had same -Log(Benjamini-Hochberg) value: 0.0
- 
+<br />  
+<br />  
 
 [**Table (X). -Log(Benjamini-Hochberg) Statistic summary between PathFX Versions**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_all_records_stats_table.csv)
 <br />  
