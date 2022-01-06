@@ -88,8 +88,8 @@ Source File: (Please contact the lab for more information regarding this)
 **Table (X).** [-Log(Benjamini-Hochberg) Statistic summary between PathFX Versions](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_all_records_stats_table.csv)
 ![image](display_files/output_benchmark_general_results/bh_all_records_stats_table.png)
 
-**Table (X).** [-Log(Benjamini-Hochberg) Statistic summary for Specific Adverse events between PathFX Versions](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/)
-![image](display_files/output_benchmark_general_results/)
+**Table (X).** [-Log(Benjamini-Hochberg) Statistic summary for Specific Adverse events between PathFX Versions](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_per_adverse_event_stats_table.csv)
+![image](display_files/output_benchmark_general_results/bh_per_adverse_event_stats_table.png)
 
 **Figure (X).** [Distribution of -Log(Benjamini-Hochberg) values shown across all (CUI, Drug) records for Pathv1 and PathFXv2](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/Distribution_of_-Log_Benjamini-Hochberg_between_PathFX_Versions.html)
 ![image](display_files/output_benchmark_general_results/Distribution_of_-Log_Benjamini-Hochberg_between_PathFX_Versions.png)
