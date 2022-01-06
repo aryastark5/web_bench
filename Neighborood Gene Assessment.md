@@ -9,11 +9,10 @@ title: Neighborhood Gene Assessment
 
 [**Table (X). Neighborhood Gene List Size Stats Across all records**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/all_recrods_neigh_gene_stats_table.csv)
 <br />  
-
+5
 ![image](display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/all_recrods_neigh_gene_stats_table.png)
 <br />  
 <br />  
-
 [**Figure (X). Distribution of Neighborhood Gene List Size between PathFX Versions**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Neighborhood_Gene_List_Size_between_PathFX_Versions.html)
 <br />  
 
