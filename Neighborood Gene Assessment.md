@@ -87,6 +87,7 @@ title: Neighborhood Gene Assessment
 
 [**Figure (X). Mean Difference in -log(BH) vs. Frequency of Gene in an Adverse Event**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1/neigh_genes_version_1_Mean_-log_BH_Difference_vs_Adverse_Event_Count_of_a_specific_Gene.html) 
 <br />  
+<br />  
 
 #### PathFX Version 1.0 Only
 
@@ -100,7 +101,7 @@ title: Neighborhood Gene Assessment
 
 [**Figure (X). Mean Difference in -log(BH) vs. Frequency of Gene in an Adverse Event**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_only/neigh_genes_version_1_only_Mean_-log_BH_Difference_vs_Adverse_Event_Count_of_a_specific_Gene.html)
 <br />  
-
+<br />  
 
 #### PathFX Version 2.0
 
@@ -114,7 +115,7 @@ title: Neighborhood Gene Assessment
 
 [**Figure (X). Mean Difference in -log(BH) vs. Frequency of Gene in an Adverse Event**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_2/neigh_genes_version_2_Mean_-log_BH_Difference_vs_Adverse_Event_Count_of_a_specific_Gene.html)
 <br />  
-
+<br />  
 
 #### PathFX Version 2.0 Only
 
@@ -128,7 +129,7 @@ title: Neighborhood Gene Assessment
 
 [**Figure (X). Mean Difference in -log(BH) vs. Frequency of Gene in an Adverse Event**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_2_only/neigh_genes_version_2_only_Mean_-log_BH_Difference_vs_Adverse_Event_Count_of_a_specific_Gene.html)
 <br />  
-
+<br />  
 
 #### PathFX Version 1.0 and 2.0 Intersecting
 
@@ -142,7 +143,7 @@ title: Neighborhood Gene Assessment
 
 [**Figure (X). Mean Difference in -log(BH) vs. Frequency of Gene in an Adverse Event**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/neighborhood_gene_content_pathfx_version_comparison_info_folder/gene_frequency/neigh_genes_version_1_and_2_intersecting/neigh_genes_version_1_and_2_intersecting_Mean_-log_BH_Difference_vs_Adverse_Event_Count_of_a_specific_Gene.html)
 <br />  
-
+<br />  
 
 #### PathFX Version 1.0 and 2.0 Symmetric Difference
 
