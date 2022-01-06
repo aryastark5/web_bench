@@ -34,7 +34,7 @@ title: Drug Target Gene Assessment
 <br />  
 <br />  
 
-[**Table (X). Drug Target Gene Frequency for Each Adverse Event Info Table**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/drug_target_genes_version_count_info_table.csv)
+[**Table (X). Drug Target Gene Frequency for Each Adverse Event Info Table**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/drug_target_genes_version_count_info_table.csv)
 <br />  
 
 ![image](display_files/drug_target_gene_content_pathfx_version_comparison_info_folder/version_gene_count_comparison/drug_target_genes_version_count_info_table.png)
