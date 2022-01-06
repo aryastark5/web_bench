@@ -46,10 +46,6 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 - Number of (CUI, Drug) Records Associated in PathFX Version 1: 403347 
 - Number of (CUI, Drug) Records Associated in PathFX Version 2: 340554 
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 157183 
-
-**Table 3. Benchmark DataFrame for PathFX Version 1.0 and 2.0** Merged PathFX analysis for shared drugs identified side-effect related phenotypes and reported phenotype-associated genes in drug networks.
-![image](display_files/source_files/benchmark_dataframe.png) (For more information about this data, please contact the lab)
- 
  
 ### Intersection of FDA Drugs Labeled for Adverse Event (FDLAE) File and PathFX Benchmark DataFrame (with intersection of Version 1 and 2 associated records)
  
@@ -63,8 +59,10 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 - Number of (CUI, Drug) Records Associated in PathFX Version 2: 355 
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355 
 
-
-
+**Table 3. Benchmark DataFrame for PathFX Version 1.0 and 2.0** Merged PathFX analysis for shared drugs identified side-effect related phenotypes and reported phenotype-associated genes in drug networks.
+![image](display_files/source_files/benchmark_dataframe.png) (For more information about this data, please contact the lab)
+ 
+ 
 ## Benjamini-Hochberg
 ---------------------------------------------------------------------------
  
