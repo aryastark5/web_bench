@@ -18,7 +18,7 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 - Number of Identified DrugBank Drugs: 1759 
  
  
-[**Supplemnt File (X). FDA Drugs Labeled for Adverse Event (FDLAE) File**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/Drugs_labeled_for_AEs.txt)
+[**Supplement File (X). FDA Drugs Labeled for Adverse Event (FDLAE) File**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/source_files/Drugs_labeled_for_AEs.txt)
 
 ![image](display_files/source_files/Drugs_labeled_for_AEs.png)
  
@@ -34,7 +34,7 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
  
  
 **Table 3. Benchmark DataFrame for PathFX Version 1.0 and 2.0** Merged PathFX analysis for shared drugs identified side-effect related phenotypes and reported phenotype-associated genes in drug networks.
-![image](display_files/source_files/benchmark_dataframe.png)
+![image](display_files/source_files/benchmark_dataframe.png) (For more information about this data, please contact the lab)
  
  
  
