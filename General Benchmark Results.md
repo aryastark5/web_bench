@@ -4,6 +4,9 @@ title: General Benchmark Results
 ---
 
 
+**Figure (X).** [Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2]([1]|[3])
+
+
 
 **Figure (X).** [Scatterplot comparing the values of -Log(Benjamin Hochberg) for PathFXv1 against PathFXv2]([1]+[3])
 
