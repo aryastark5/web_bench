@@ -145,7 +145,7 @@
   },"24": {
     "doc": "About",
     "title": "About",
-    "content": "Learn more about Lab For The Understanding Of Network Effects (LUNE) . ",
+    "content": "Learn more about PathFX . Learn more about Lab For The Understanding Of Network Effects (LUNE) . ",
     "url": "http://localhost:4000/web_bench/about/",
     "relUrl": "/about/"
   }

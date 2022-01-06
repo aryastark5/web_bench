@@ -9,7 +9,7 @@ search_enabled: true
 baseurl: "web_bench" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/pathfx_logo.png"
 
 
 plugins:
