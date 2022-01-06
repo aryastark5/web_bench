@@ -55,9 +55,11 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 ![image](display_files/source_files/benchmark_dataframe.png)
 
 Source File: (Please contact the lab for more information regarding this)
-
+ 
+ 
+ 
 ### Intersection of FDA Drugs Labeled for Adverse Event (FDLAE) File and PathFX Benchmark DataFrame (with intersection of Version 1 and 2 associated records) 
-<br/>
+
 - Number of (CUI, Drug) Records: 355 
 - Number of unique CUIs: 16 
 - Number of unique Phenotypes in PathFX Version 1: 16 
@@ -69,24 +71,32 @@ Source File: (Please contact the lab for more information regarding this)
 - Number of (CUI, Drug) Records Associated in Both PathFX Versions: 355 
 
 
-<br/>
 
 ## Benjamini-Hochberg
 ---------------------------------------------------------------------------
-<br/>
+ 
+
+ Below is a summary of the differences between PathFX Version 1.0 and 2.0 in regards to the Benjamini-Hochberg value.
+
+ 
 ### Score Size Comparison between PathFX Versions
-
-
+ 
+ 
 **Table (X).** [Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all (CUI, Drug) records](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_inequa_comp_table.csv)
+ 
 ![image](display_files/output_benchmark_general_results/bh_inequa_comp_table.png)
-
+ 
+ 
 **Table (X).** [Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all Adverse Events](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/bh_inequa_adverse_event_comp_table.csv)
+ 
 ![image](display_files/output_benchmark_general_results/bh_inequa_adverse_event_comp_table.png)
-
+ 
+ 
 **Table (X).** [Table (X). Frequency of -Log(Benjamini-Hochberg) value comparison between PathFX Versions across all Drugs (Top 30 shown)](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_benchmark_general_results/drug_bh_assoc_version_table.csv)
+ 
 ![image](display_files/output_benchmark_general_results/drug_bh_assoc_version_table.png)
-
-
+ 
+ 
 
 ### Distribution of Values for each PathFX Version
 - Number of times Version 1 had higher -Log(Benjamini-Hochberg) value: 287.0
