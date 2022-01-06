@@ -7,4 +7,4 @@ Below is a general summary of the results after comparing PathFX Version 1.0 and
 
 
 ### FDA Drugs Labeled for Adverse Event (FDLAE) File
----------------------------------------------------------------------------
+___
