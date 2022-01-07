@@ -26,9 +26,9 @@ nav_order: 3
 ![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/all_records_intom_gene_stats_table.png)
 <br />  
 <br />  
+
 [**Figure (X). Distribution of Interactome Gene List Size between PathFX Versions**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Interactome_Gene_List_Size_between_PathFX_Versions.html)
 <br />  
-
 ![image](display_files/interactome_gene_content_pathfx_version_comparison_info_folder/Distribution_of_Interactome_Gene_List_Size_between_PathFX_Versions.png)
 <br />  
 <br />  

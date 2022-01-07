@@ -48,13 +48,6 @@ below are some examples graphs. All 171 graph images can be seen in this [Google
 <br /> 
 
 
-[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/pairwise_numerical_columns_scatterplot_graphs/.html)
-<br />  
-![image](display_files/output_numerical_attributes_assessment/pairwise_numerical_columns_scatterplot_graphs/)
-<br />  
-<br /> 
-
-
 [**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/pairwise_numerical_columns_scatterplot_graphs/Difference_in_Intersecting_Neighborhood_Gene_List_Percentage_vs._Difference_in_Ratio_of_Drug_Targets_to_Neighborhood_Genes.html)
 <br />  
 ![image](display_files/output_numerical_attributes_assessment/pairwise_numerical_columns_scatterplot_graphs/Difference_in_Intersecting_Neighborhood_Gene_List_Percentage_vs._Difference_in_Ratio_of_Drug_Targets_to_Neighborhood_Genes.png)
