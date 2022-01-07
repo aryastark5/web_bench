@@ -1,0 +1,5 @@
+,count,mean,std,max,min,sum
+Difference between Interactome-Neighborhood Gene List Size for PathFX Version 1,355.0,447.6112676056338,324.59254926218534,1015.0,29.0,158902.0
+Difference between Interactome-Neighborhood Gene List Size for PathFX Version 2,355.0,609.0957746478873,630.9106160864395,1771.0,31.0,216229.0
+Neighborhood Gene List Percentage for PathFX Version 1,355.0,0.07178500531670265,0.05387667785245222,0.296875,0.003610108303249,25.48367688742944
+Neighborhood Gene List Percentage for PathFX Version 2,355.0,0.05605033783819662,0.04202183733995346,0.22,0.002008032128514,19.89786993255977
