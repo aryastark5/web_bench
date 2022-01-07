@@ -7,4 +7,7 @@ grand_parent: Numerical Attributes Assessment
 has_children: true
 ---
 
-gggg
+<br />  
+
+**Please contact Arya for information regarding this page**
+
