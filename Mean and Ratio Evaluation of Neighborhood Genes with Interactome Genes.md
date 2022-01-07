@@ -26,7 +26,7 @@ parent: Numerical Attributes Assessment
 
 ### All Records
 
-[**Table (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_stats_table.csv)
+[**Table (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_stats_table.csv)
 <br />  
 ![image](display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_stats_table.png)
 <br />  
@@ -50,7 +50,7 @@ parent: Numerical Attributes Assessment
 
 ### Per Phenotype
 
-[**Table (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_per_adverse_event_stats_table.csv)
+[**Table (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_per_adverse_event_stats_table.csv)
 <br />  
 ![image](display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_per_adverse_event_stats_table.png)
 <br />  
@@ -73,7 +73,7 @@ parent: Numerical Attributes Assessment
 
 ### Per Drug
 
-[**Table (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_per_drug_stats_table.csv)
+[**Table (X).**](https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_per_drug_stats_table.csv)
 <br />  
 ![image](display_files/output_numerical_attributes_assessment/mean_and_ratio_neigh_with_intom_gene/ratio_and_difference_of_neigh_and_intom_per_drug_stats_table.png)
 <br />  
