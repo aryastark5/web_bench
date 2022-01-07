@@ -1,6 +1,6 @@
 ---
 layout: page
-title: -Log(Benjamni-Hochberb) Scatter Plots
+title: -Log(Benjamni-Hochberg) Scatter Plots
 nav_order: 1
 parent: Two Versions Numerical Attributes Assessment
 grand_parent: Numerical Attributes Assessment
