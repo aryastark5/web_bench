@@ -47,102 +47,126 @@
     "url": "http://localhost:4000/web_bench/General%20Benchmark%20Results.html#benjamini-hochberg",
     "relUrl": "/General%20Benchmark%20Results.html#benjamini-hochberg"
   },"8": {
+    "doc": "General Numerical Attribute Assessments",
+    "title": "General Numerical Attribute Assessments",
+    "content": " ",
+    "url": "http://localhost:4000/web_bench/General%20Numerical%20Attribute%20Assessments.html",
+    "relUrl": "/General%20Numerical%20Attribute%20Assessments.html"
+  },"9": {
     "doc": "Interactome Gene Assessment",
     "title": "Interactome Gene Assessment",
     "content": " ",
     "url": "http://localhost:4000/web_bench/Interactome%20Gene%20Assessment.html",
     "relUrl": "/Interactome%20Gene%20Assessment.html"
-  },"9": {
+  },"10": {
     "doc": "Interactome Gene Assessment",
     "title": "Table of contents",
     "content": ". | Numerical Gene List Size Summary | Gene List Content Summary . | General Comparison between PathFX Version 1.0 and 2.0 | Gene Content Freqeuncy for Specific set of PathFX Version(s) . | PathFX Version 1.0 | PathFX Version 1.0 Only | PathFX Version 2.0 | PathFX Version 2.0 Only | PathFX Version 1.0 and 2.0 Intersecting | PathFX Version 1.0 and 2.0 Symmetric Difference | . | . | . ",
     "url": "http://localhost:4000/web_bench/Interactome%20Gene%20Assessment.html#table-of-contents",
     "relUrl": "/Interactome%20Gene%20Assessment.html#table-of-contents"
-  },"10": {
+  },"11": {
     "doc": "Interactome Gene Assessment",
     "title": "Numerical Gene List Size Summary",
     "content": ". Table (X). Interactome Gene List Size Stats Across all records . Figure (X). Distribution of Interactome Gene List Size between PathFX Versions . Figure (X). Distribution of Unique Interactome Gene List Size between PathFX Versions . Table (X). Number of Interactome Genes Stats for each Adverse Event in PathFX Version 1 and Version 2 . Table (X). Interactome Gene Frequency for Each Adverse Event Info Table . ",
     "url": "http://localhost:4000/web_bench/Interactome%20Gene%20Assessment.html#numerical-gene-list-size-summary",
     "relUrl": "/Interactome%20Gene%20Assessment.html#numerical-gene-list-size-summary"
-  },"11": {
+  },"12": {
     "doc": "Interactome Gene Assessment",
     "title": "Gene List Content Summary",
     "content": ". General Comparison between PathFX Version 1.0 and 2.0 . Figure (X). Difference in -Log(BH) vs Unique Version 1 Interactome Gene List . Figure (X). Difference in -Log(BH) vs Unique Version 2 Interactome Gene List . Figure (X). Difference in Frequncy for Adverse Event Count between PathFX Versions for all Interactome Genes . Gene Content Freqeuncy for Specific set of PathFX Version(s) . PathFX Version 1.0 . Figure (X). Interactome Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 1.0 Only . Figure (X). Interactome Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 2.0 . Figure (X). Interactome Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 2.0 Only . Figure (X). Interactome Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 1.0 and 2.0 Intersecting . Figure (X). Interactome Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 1.0 and 2.0 Symmetric Difference . Figure (X). Interactome Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . ",
     "url": "http://localhost:4000/web_bench/Interactome%20Gene%20Assessment.html#gene-list-content-summary",
     "relUrl": "/Interactome%20Gene%20Assessment.html#gene-list-content-summary"
-  },"12": {
+  },"13": {
+    "doc": "Mean and Ratio Evaluation of Neighborhood Genes with Interactome Genes",
+    "title": "Mean and Ratio Evaluation of Neighborhood Genes with Interactome Genes",
+    "content": " ",
+    "url": "http://localhost:4000/web_bench/Mean%20and%20Ratio%20Evaluation%20of%20Neighborhood%20Genes%20with%20Interactome%20Genes.html",
+    "relUrl": "/Mean%20and%20Ratio%20Evaluation%20of%20Neighborhood%20Genes%20with%20Interactome%20Genes.html"
+  },"14": {
     "doc": "Neighborhood Gene Assessment",
     "title": "Neighborhood Gene Assessment",
     "content": " ",
     "url": "http://localhost:4000/web_bench/Neighborood%20Gene%20Assessment.html",
     "relUrl": "/Neighborood%20Gene%20Assessment.html"
-  },"13": {
+  },"15": {
     "doc": "Neighborhood Gene Assessment",
     "title": "Table of contents",
     "content": ". | Numerical Gene List Size Summary | Gene List Content Summary . | General Comparison between PathFX Version 1.0 and 2.0 | Gene Content Freqeuncy for Specific set of PathFX Version(s) . | PathFX Version 1.0 | PathFX Version 1.0 Only | PathFX Version 2.0 | PathFX Version 2.0 Only | PathFX Version 1.0 and 2.0 Intersecting | PathFX Version 1.0 and 2.0 Symmetric Difference | . | . | . ",
     "url": "http://localhost:4000/web_bench/Neighborood%20Gene%20Assessment.html#table-of-contents",
     "relUrl": "/Neighborood%20Gene%20Assessment.html#table-of-contents"
-  },"14": {
+  },"16": {
     "doc": "Neighborhood Gene Assessment",
     "title": "Numerical Gene List Size Summary",
     "content": ". Table (X). Neighborhood Gene List Size Stats Across all records . Figure (X). Distribution of Neighborhood Gene List Size between PathFX Versions . Figure (X). Distribution of Unique Neighborhood Gene List Size between PathFX Versions . Table (X). Number of Neighborhood Genes Stats for each Adverse Event in PathFX Version 1 and Version 2 . Table (X). Neighborhood Gene Frequency for Each Adverse Event Info Table . ",
     "url": "http://localhost:4000/web_bench/Neighborood%20Gene%20Assessment.html#numerical-gene-list-size-summary",
     "relUrl": "/Neighborood%20Gene%20Assessment.html#numerical-gene-list-size-summary"
-  },"15": {
+  },"17": {
     "doc": "Neighborhood Gene Assessment",
     "title": "Gene List Content Summary",
     "content": ". General Comparison between PathFX Version 1.0 and 2.0 . Figure (X). Difference in -Log(BH) vs Unique Version 1 Neighborhood Gene List . Figure (X). Difference in -Log(BH) vs Unique Version 2 Neighborhood Gene List . Figure (X). Difference in Frequncy for Adverse Event Count between PathFX Versions for all Neighborhood Genes . Gene Content Freqeuncy for Specific set of PathFX Version(s) . PathFX Version 1.0 . Figure (X). Neighborhood Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 1.0 Only . Figure (X). Neighborhood Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 2.0 . Figure (X). Neighborhood Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 2.0 Only . Figure (X). Neighborhood Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 1.0 and 2.0 Intersecting . Figure (X). Neighborhood Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . PathFX Version 1.0 and 2.0 Symmetric Difference . Figure (X). Neighborhood Genes Frequency . Figure (X). Difference in -Log(BH) for each individual (Gene, Drug) Record . Figure (X). Mean Difference in -Log(BH) for each Gene Across it’s Records . Figure (X). Mean Difference in -Log(BH) for each Adverse Event . Figure (X). Mean Difference in -Log(BH) vs. Frequency of Gene in an Adverse Event . ",
     "url": "http://localhost:4000/web_bench/Neighborood%20Gene%20Assessment.html#gene-list-content-summary",
     "relUrl": "/Neighborood%20Gene%20Assessment.html#gene-list-content-summary"
-  },"16": {
+  },"18": {
     "doc": "Numerical Attributes Assessment",
     "title": "Numerical Attributes Assessment",
     "content": " ",
     "url": "http://localhost:4000/web_bench/Numerical%20Attribute%20Assessment.html",
     "relUrl": "/Numerical%20Attribute%20Assessment.html"
-  },"17": {
+  },"19": {
     "doc": "Numerical Attributes Assessment",
     "title": "Table of contents",
-    "content": ". We considered multiple numerical attributes that could descried how different input data could influence strength of PathFX predictions. We were particularly interested in how side-effect-associated genes in drug networks (“neighborhood gene lists”) and how side-effect pathway genes (“interactome gene lists”) changed. We pursued multiple metrics that quantified changes in neighborhood and interactome gene lists (Table X). Table X. Numerical attribute quantified changes in underlying PathFX data – specifically changes in neighborhood and interactome gene lists and relationships between these data. ",
+    "content": ". We considered multiple numerical attributes that could descried how different input data could influence strength of PathFX predictions. We were particularly interested in how side-effect-associated genes in drug networks (“neighborhood gene lists”) and how side-effect pathway genes (“interactome gene lists”) changed. We pursued multiple metrics that quantified changes in neighborhood and interactome gene lists (Table X). Table X. Numerical attribute quantified changes in underlying PathFX data – specifically changes in neighborhood and interactome gene lists and relationships between these data. Table (X). Neighborhood Gene List Size Stats Across all records . ",
     "url": "http://localhost:4000/web_bench/Numerical%20Attribute%20Assessment.html#table-of-contents",
     "relUrl": "/Numerical%20Attribute%20Assessment.html#table-of-contents"
-  },"18": {
+  },"20": {
+    "doc": "Regression",
+    "title": "Regression",
+    "content": "(Page will be updated) . ",
+    "url": "http://localhost:4000/web_bench/Regression.html",
+    "relUrl": "/Regression.html"
+  },"21": {
+    "doc": "Source File Assessment",
+    "title": "Source File Assessment",
+    "content": "Please see attached report comparing the files used for PathFX Version 1.0 and PathFX Version 2.0 . PathFX Source Files Report . ",
+    "url": "http://localhost:4000/web_bench/Source%20File%20Assessment.html",
+    "relUrl": "/Source%20File%20Assessment.html"
+  },"22": {
     "doc": "Stacked Bar Charts",
     "title": "Stacked Bar Charts",
     "content": " ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html",
     "relUrl": "/Stacked%20Bar%20Charts.html"
-  },"19": {
+  },"23": {
     "doc": "Stacked Bar Charts",
     "title": "Table of contents",
     "content": ". | Every (CUI, Drug) . | Neighborhood Gene | Interactome Gene | Drug Target Gene | . | Every Phenotype . | Neighborhood Gene | Interactome Gene | Drug Target Gene | . | Every Drug . | Neighborhood Gene | Interactome Gene | Drug Target Gene | . | Mean of all Normalized Bar Charts | . ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#table-of-contents",
     "relUrl": "/Stacked%20Bar%20Charts.html#table-of-contents"
-  },"20": {
+  },"24": {
     "doc": "Stacked Bar Charts",
     "title": "Every (CUI, Drug)",
     "content": ". Neighborhood Gene . Figure (X). Figure (X). Interactome Gene . Figure (X). Figure (X). Drug Target Gene . Figure (X). Figure (X). ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#every-cui-drug",
     "relUrl": "/Stacked%20Bar%20Charts.html#every-cui-drug"
-  },"21": {
+  },"25": {
     "doc": "Stacked Bar Charts",
     "title": "Every Phenotype",
     "content": ". Neighborhood Gene . Figure (X). Figure (X). Interactome Gene . Figure (X). Figure (X). Drug Target Gene . Figure (X). Figure (X). ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#every-phenotype",
     "relUrl": "/Stacked%20Bar%20Charts.html#every-phenotype"
-  },"22": {
+  },"26": {
     "doc": "Stacked Bar Charts",
     "title": "Every Drug",
     "content": ". Neighborhood Gene . Figure (X). Figure (X). Interactome Gene . Figure (X). Figure (X). Drug Target Gene . Figure (X). Figure (X). ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#every-drug",
     "relUrl": "/Stacked%20Bar%20Charts.html#every-drug"
-  },"23": {
+  },"27": {
     "doc": "Stacked Bar Charts",
     "title": "Mean of all Normalized Bar Charts",
     "content": ". Figure (X). Average Mean Percentage with STD Error for each Type of Normalized Stacked Bar Chart . ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#mean-of-all-normalized-bar-charts",
     "relUrl": "/Stacked%20Bar%20Charts.html#mean-of-all-normalized-bar-charts"
-  },"24": {
+  },"28": {
     "doc": "About",
     "title": "About",
     "content": "Learn more about PathFX . Learn more about Lab For The Understanding Of Network Effects (LUNE) . ",
