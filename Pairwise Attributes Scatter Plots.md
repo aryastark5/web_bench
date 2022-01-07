@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Pairwise Attributes Scatter Plots
-nav_order: 1
+nav_order: 2
 parent: Two Versions Numerical Attributes Assessment
 has_children: true
 ---
+
+gggg
