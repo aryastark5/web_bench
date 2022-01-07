@@ -67,9 +67,9 @@ has_children: true
 <br />  
 <br />  
 
-[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/two_versions_numerical_attributes_vs_neg_logBH_/Set_Symmetric_Difference_in_Drug_Target_Gene_List_Size_vs._Difference_in_-Log_Benjamini-Hochberg_between_PathFX_Versions.html)
+[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/two_versions_numerical_attributes_vs_neg_logBH_/.html)
 <br />  
-![image](display_files/output_numerical_attributes_assessment/two_versions_numerical_attributes_vs_neg_logBH_/Set_Symmetric_Difference_in_Drug_Target_Gene_List_Size_vs._Difference_in_-Log_Benjamini-Hochberg_between_PathFX_Versions.png)
+![image](display_files/output_numerical_attributes_assessment/two_versions_numerical_attributes_vs_neg_logBH_/.png)
 <br />  
 <br />  
 
@@ -109,11 +109,9 @@ has_children: true
 <br />  
 <br />  
 
-[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/two_versions_numerical_attributes_vs_neg_logBH_/Difference_in_Unique_Drug_Target_Gene_List_Size_vs._Difference_in_-Log_Benjamini-Hochberg_between_PathFX_Versions
-.html)
+[**Figure (X).**](https://htmlpreview.github.io/?https://github.com/aryastark5/web_bench/blob/gh-pages/display_files/output_numerical_attributes_assessment/two_versions_numerical_attributes_vs_neg_logBH_/Difference_in_Unique_Drug_Target_Gene_List_Size_vs._Difference_in_-Log_Benjamini-Hochberg_between_PathFX_Versions.html)
 <br />  
-![image](display_files/output_numerical_attributes_assessment/two_versions_numerical_attributes_vs_neg_logBH_/Difference_in_Unique_Drug_Target_Gene_List_Size_vs._Difference_in_-Log_Benjamini-Hochberg_between_PathFX_Versions
-.png)
+![image](display_files/output_numerical_attributes_assessment/two_versions_numerical_attributes_vs_neg_logBH_/Difference_in_Unique_Drug_Target_Gene_List_Size_vs._Difference_in_-Log_Benjamini-Hochberg_between_PathFX_Versions.png)
 <br />  
 <br />  
 

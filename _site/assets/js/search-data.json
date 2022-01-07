@@ -132,83 +132,89 @@
     "relUrl": "/Numerical%20Attribute%20Assessment.html#table-of-contents"
   },"22": {
     "doc": "Pairwise Attributes Scatter Plots",
+    "title": "Graphs",
+    "content": "This section consists of 171 graphs for all the possible pairings from the Two-Versions Numerical Attrbiutes . below are some examples graphs. All 171 graph images can be seen in this Google Drive folder. Figure (X). Figure (X). Figure (X). Figure (X). Figure (X). Figure (X). Figure (X). Figure (X). Figure (X). ",
+    "url": "http://localhost:4000/web_bench/Pairwise%20Attributes%20Scatter%20Plots.html#graphs",
+    "relUrl": "/Pairwise%20Attributes%20Scatter%20Plots.html#graphs"
+  },"23": {
+    "doc": "Pairwise Attributes Scatter Plots",
     "title": "Pairwise Attributes Scatter Plots",
     "content": ". Please contact Arya for information regarding this page . ",
     "url": "http://localhost:4000/web_bench/Pairwise%20Attributes%20Scatter%20Plots.html",
     "relUrl": "/Pairwise%20Attributes%20Scatter%20Plots.html"
-  },"23": {
+  },"24": {
     "doc": "Regression",
     "title": "Regression",
     "content": "(Page will be updated) . ",
     "url": "http://localhost:4000/web_bench/Regression.html",
     "relUrl": "/Regression.html"
-  },"24": {
+  },"25": {
     "doc": "Single Version Numerical Attribute Assessment",
     "title": "Attribute Guide Sheet",
     "content": ". Statistic Tables . Table (X). Table (X). ",
     "url": "http://localhost:4000/web_bench/Single%20Version%20Numerical%20Attribute%20Assessment.html#attribute-guide-sheet",
     "relUrl": "/Single%20Version%20Numerical%20Attribute%20Assessment.html#attribute-guide-sheet"
-  },"25": {
+  },"26": {
     "doc": "Single Version Numerical Attribute Assessment",
     "title": "Single Version Numerical Attribute Assessment",
     "content": " ",
     "url": "http://localhost:4000/web_bench/Single%20Version%20Numerical%20Attribute%20Assessment.html",
     "relUrl": "/Single%20Version%20Numerical%20Attribute%20Assessment.html"
-  },"26": {
+  },"27": {
     "doc": "Source File Assessment",
     "title": "Source File Assessment",
     "content": "Please see attached report comparing the files used for PathFX Version 1.0 and PathFX Version 2.0 . PathFX Source Files Report . ",
     "url": "http://localhost:4000/web_bench/Source%20File%20Assessment.html",
     "relUrl": "/Source%20File%20Assessment.html"
-  },"27": {
+  },"28": {
     "doc": "Stacked Bar Charts",
     "title": "Stacked Bar Charts",
     "content": " ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html",
     "relUrl": "/Stacked%20Bar%20Charts.html"
-  },"28": {
+  },"29": {
     "doc": "Stacked Bar Charts",
     "title": "Table of contents",
     "content": ". | Every (CUI, Drug) . | Neighborhood Gene | Interactome Gene | Drug Target Gene | . | Every Phenotype . | Neighborhood Gene | Interactome Gene | Drug Target Gene | . | Every Drug . | Neighborhood Gene | Interactome Gene | Drug Target Gene | . | Mean of all Normalized Bar Charts | . ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#table-of-contents",
     "relUrl": "/Stacked%20Bar%20Charts.html#table-of-contents"
-  },"29": {
+  },"30": {
     "doc": "Stacked Bar Charts",
     "title": "Every (CUI, Drug)",
     "content": ". Neighborhood Gene . Figure (X). Figure (X). Interactome Gene . Figure (X). Figure (X). Drug Target Gene . Figure (X). Figure (X). ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#every-cui-drug",
     "relUrl": "/Stacked%20Bar%20Charts.html#every-cui-drug"
-  },"30": {
+  },"31": {
     "doc": "Stacked Bar Charts",
     "title": "Every Phenotype",
     "content": ". Neighborhood Gene . Figure (X). Figure (X). Interactome Gene . Figure (X). Figure (X). Drug Target Gene . Figure (X). Figure (X). ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#every-phenotype",
     "relUrl": "/Stacked%20Bar%20Charts.html#every-phenotype"
-  },"31": {
+  },"32": {
     "doc": "Stacked Bar Charts",
     "title": "Every Drug",
     "content": ". Neighborhood Gene . Figure (X). Figure (X). Interactome Gene . Figure (X). Figure (X). Drug Target Gene . Figure (X). Figure (X). ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#every-drug",
     "relUrl": "/Stacked%20Bar%20Charts.html#every-drug"
-  },"32": {
+  },"33": {
     "doc": "Stacked Bar Charts",
     "title": "Mean of all Normalized Bar Charts",
     "content": ". Figure (X). Average Mean Percentage with STD Error for each Type of Normalized Stacked Bar Chart . ",
     "url": "http://localhost:4000/web_bench/Stacked%20Bar%20Charts.html#mean-of-all-normalized-bar-charts",
     "relUrl": "/Stacked%20Bar%20Charts.html#mean-of-all-normalized-bar-charts"
-  },"33": {
+  },"34": {
     "doc": "Two Versions Numerical Attributes Assessment",
     "title": "Attribute Guide Sheet",
     "content": ". Statistic Tables . Table (X). Table (X). ",
     "url": "http://localhost:4000/web_bench/Two%20Versions%20Numerical%20Attributes%20Assessment.html#attribute-guide-sheet",
     "relUrl": "/Two%20Versions%20Numerical%20Attributes%20Assessment.html#attribute-guide-sheet"
-  },"34": {
+  },"35": {
     "doc": "Two Versions Numerical Attributes Assessment",
     "title": "Two Versions Numerical Attributes Assessment",
     "content": " ",
     "url": "http://localhost:4000/web_bench/Two%20Versions%20Numerical%20Attributes%20Assessment.html",
     "relUrl": "/Two%20Versions%20Numerical%20Attributes%20Assessment.html"
-  },"35": {
+  },"36": {
     "doc": "About",
     "title": "About",
     "content": "Learn more about PathFX . Learn more about Lab For The Understanding Of Network Effects (LUNE) . ",
