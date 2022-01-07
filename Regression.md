@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Regression
-nav_order: 3
+nav_order: 4
 parent: Numerical Attributes Assessment
 ---
 
