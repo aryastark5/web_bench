@@ -1,15 +1,13 @@
 
 
-title: PathFX Benchmark Results
-description: Benchmark on PathFX Versions
+title: Drug Adverse Event Results
+description: Benchmark on Versions
 remote_theme: pmarsceill/just-the-docs
 
 search_enabled: true
 
 baseurl: "web_bench" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-logo: "/assets/images/pathfx_logo.png"
 
 
 plugins:
